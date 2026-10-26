@@ -1,4 +1,4 @@
-# AGD (kuchnia + pralnia) – wymagania
+# AGD (kuchnia + pralnia + winiarka) – wymagania
 
 Modele wzorcowe = punkt odniesienia. Szukam tych modeli albo odpowiedników z co najmniej tymi funkcjami.
 Legenda: **[MUST]** obowiązkowe, **[NICE]** mile widziane, *(?)* do weryfikacji w karcie produktu.
@@ -202,6 +202,34 @@ Warunki: słupek pralka + suszarka, pełna głębokość ok. 60–65 cm, 3–4 o
 
 ---
 
+## 8. Chłodziarka do wina (podblatowa)
+**Wzorzec:** brak – **wybrana: La Sommelière LSBU18DZ** (2 999 zł, electropoland.pl; na liście zakupów, poza euro)
+
+Warunki: zabudowa w szafkach dolnych, pod blatem (wys. ok. 82 cm), szer. 30 cm (dopuszczalnie do 50 cm). Cena przystępna – nie górna półka (≤ ok. 3 000 zł).
+
+- **[MUST]** Do zabudowy pod blatem, **wentylacja z przodu** (kratka w cokole)
+- **[MUST]** **Dwie niezależne strefy** temperatury (białe/musujące + czerwone)
+- **[MUST]** Pojemność ok. **20 butelek** 0,75 l — w praktyce 16–18 przy 2 strefach i 30 cm (20 butelek + 2 strefy ma tylko Avintage AVU31DHD, 5 420 zł)
+- **[MUST]** Szyba z filtrem UV
+- **[NICE]** Cicha ≤ 40 dB, klasa F lub lepsza (≤ ok. 100 kWh/rok)
+- **[NICE]** Drewniane półki wysuwane, LED, alarm drzwi, zmiana kierunku otwierania
+- **[NICE]** Czarne szkło (spójnie z resztą AGD)
+
+**Do wyszukiwania:** `winiarka podblatowa 30 cm dwie strefy 18 butelek wentylacja z przodu`
+
+**Wybór (26.10.2026):**
+- **La Sommelière LSBU18DZ2** — **od 2 999 zł**; 18 btl (6 + 12), 2 × 5–20 °C, **F 98 kWh**, 39 dB, wnęka 30 × 82 × 57,5 cm, wentylacja z przodu, szkło potrójne Low‑E UV, 4 półki drewniane. Poza euro — osobny zakup.
+- **Budżet w euro: Amica WCF2K30B16.1** — **2 399 zł z kodem** (do 31.10; 2 598 bez kodu); 16 btl, G 149 kWh, 40 dB, **gł. 61,5 cm** *(?)*, wentylacja z przodu potwierdzona w instrukcji. Kupić **osobnym zamówieniem** — w koszyku z `RKPROGAGD1026` kod produktowy znika (2 598 zł), a rabat progowy i tak się nie zmienia.
+- **Szafka 40 cm: Cavin ACD40FGB** — **3 599 zł**; **28 btl**, 2 × 5–20 °C, G 140 kWh, 41 dB, wentylacja z przodu, czarne szkło UV, wnęka 39 × **87** × 57,5 cm *(?)*. +600 zł do LSBU za +10 butelek. Droższe 40–45 cm (Avintage AVU41D82 5 799, mQuvée WCD40 6 099, Temptech 45 cm 6 299+) — górna półka.
+- **Wentylacja z przodu potwierdzona (instrukcje/karty, 26.10):** LSBU18DZ, Amica WCF2K30B16.1 (kratka w dolnej części, wyciąć cokół), Cavin ACD30FGB (3 149 zł, 17 btl, G 135 kWh, 40 dB), Cavin ACD40FGB.
+- **Odrzucone: BERG BRGWA17D** — 2 689–2 999 zł; instrukcja wymaga otworu 300 × 25 mm w ściance za winiarką (wylot z tyłu). Kluge KCW1702B (4 899 zł) — brak potwierdzenia wentylacji z przodu.
+- **Odrzucone (wentylacja z tyłu): Klarstein Vinovilla 30 cm 17 btl 2 strefy** — 1 562,90 zł, ale instrukcja: 5 cm z boków, 10 cm z tyłu (wylot z tyłu); 43 dB, G 138 kWh, zawias nieodwracalny. Tylko wolnostojąco.
+- **Odrzucone (1 strefa):** Candy CCVB 30/1 (20 btl, 1 599 z kodem), Amica WCF1V30B19.1 (19 btl, 1 899 z kodem).
+- **Górna półka (odrzucone cenowo):** Avintage AVU31DHD 5 420 / AVU31D88 od 4 798, Norcool 5 599, mQuvée 5 999, Caso WDU 18 ~€1 499.
+- Szczegóły: `raporty/winiarka-wybor.md`.
+
+---
+
 ## Do sprawdzenia przed zakupem
 - [ ] Wymiary wnęk w zabudowie (piekarnik, lodówka) i wycięcie w blacie pod płytę
 - [ ] Moc przyłącza: płyta **7,35 kW** + piekarnik ok. 3,5 kW; osobny obwód płyty
@@ -235,5 +263,8 @@ Warunki: słupek pralka + suszarka, pełna głębokość ok. 60–65 cm, 3–4 o
 - [ ] Pralka + suszarka: 2 osobne gniazdka, zawór wody, odpływ dla pralki i dla suszarki
 - [ ] Pralka + suszarka: kierunek otwierania drzwi vs ściany / przejście
 - [ ] Pralka: czy jest AquaStop (WGG244ZEPL – nie; WGH24409PL – tak)
+- [ ] Winiarka: wnęka w szafce dolnej — szer. ≥ 30 cm, wys. 82–87 cm, gł. ≥ 57,5 cm (LSBU) / ≥ 61,5 cm (Amica)
+- [ ] Winiarka: kratka wentylacyjna w cokole przed urządzeniem (uzgodnić ze stolarzem)
+- [ ] Winiarka: gniazdko w sąsiedniej szafce; kierunek otwierania drzwi
 - [ ] Spójny kolor / wykończenie (czarne)
 - [ ] Gwarancja, montaż, cena w kilku sklepach

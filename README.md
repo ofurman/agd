@@ -51,6 +51,19 @@ Stan na **26.10.2026**. **Wybór użytkownika (26.10.2026): płyta Electrolux CI
 - **Neonet 14 133,95** i pozostałe wiersze z poprzedniego raportu **nie dotyczą już tego zestawu** — nie używać ich do porównań.
 - Szczegóły i macierz dostępności: `raporty/koszyk-rynki-2026-10-26.md` (wpis oznaczony jako snapshot sprzed decyzji).
 
+## Poza euro — osobne zamówienia
+
+| Pozycja | Model | Cena | Sklep |
+|---|---|---:|---|
+| Chłodziarka do wina | La Sommelière LSBU18DZ (30 cm, 2 strefy, 18 btl) | 2 999,00 | electropoland.pl (kod `JESIEŃ` do −20% — sprawdzić w koszyku) |
+
+## Łącznie
+
+| | Netto |
+|---|---:|
+| Koszyk euro (1 koszyk) + winiarka | 16 193,25 + 2 999,00 = **19 192,25** |
+| Koszyk euro (podział: pralka osobno + łącznik Neonet) + winiarka | 15 663,44 + 2 999,00 = **18 662,44** |
+
 ## Lodówki — decyzja
 
 | Model | Cena | Energia | Poj. | Chłodzenie | Netto (po zmianie) | MUST |
@@ -136,6 +149,25 @@ Stan na **26.10.2026**. **Wybór użytkownika (26.10.2026): płyta Electrolux CI
 - **Alternatywa:** AEG DGE5661HM (54 cm, inox, H2H, podobna platforma); Electrolux LFG719R (80 cm — tylko szafka 80 cm). Teleskopy (LFP326FW itd.) odrzucone.
 - Szczegóły: `raporty/okap-wybor.md`.
 
+## Chłodziarka do wina — decyzja
+
+Podblatowa, 30 cm, 2 strefy. Poza koszykiem euro (baza 20 843,25 jest już nad progiem, więc winiarka nie zmienia rabatu). Szczegóły: `raporty/winiarka-wybor.md`.
+
+| Model | Cena | Butelki | Energia | dB | Gł. | Gdzie |
+|---|---:|---:|---|---:|---:|---|
+| **La Sommelière LSBU18DZ2** | **od 2 999** | 18 | **F 98** | 39 | 57 | Ceneo, 4 sklepy |
+| Amica WCF2K30B16.1 | 2 399 z kodem (2 598) | 16 | G 149 | 40 | 61,5 | euro, kod do 31.10 |
+| Cavin ACD30FGB | 3 149 | 17 | G 135 | 40 | 57,5 | zabudowa-agd.pl |
+| ~~BERG BRGWA17D~~ | 2 689–2 999 | 17 | G 145 | ? | 57 | odpada: wylot z tyłu |
+| ~~Klarstein Vinovilla 17 Duo~~ | 1 563 | 17 | G 138 | 43 | 57,5 | odpada: 10 cm odstępu z tyłu |
+| Avintage AVU31DHD | 5 420,60 | **20** | ? | ? | ? | Ceneo — górna półka |
+| **Cavin ACD40FGB (40 cm)** | **3 599** | **28** | G 140 | 41 | 57,5 | zabudowa-agd.pl |
+| Avintage AVU41D82 (40 cm) | 5 799 | 29 | F 89 | 37 | 57 | winiarki24 — górna półka |
+
+Sklepy: LSBU — electropoland.pl 2 999 (tylko online, kod `JESIEŃ` do −20% do sprawdzenia), tiboni 3 190, agdsmart 3 199, domusfari 3 199 (salony Grodzisk Wlkp. / Nowy Tomyśl). Cavin — zabudowa-agd.pl, Siedlce, 3 599. Adresy: `raporty/winiarka-wybor.md` §5a.
+
+**Wybór: La Sommelière LSBU18DZ — dodana do listy zakupów** (2 999 zł, electropoland.pl). Gdyby szafka miała 40 cm: Cavin ACD40FGB. Cavin daje 28 butelek za +600 zł, ale zużywa więcej prądu (~43 zł/rok) i wymaga wnęki 87 cm wysokości. Modele 45 cm pod blat zaczynają się od ~6 300 zł. LSBU18DZ2: najmniej prądu, potwierdzona wentylacja z przodu, mieści się w standardowej szafce. 20 butelek z 2 strefami w 30 cm ma tylko Avintage za 5 420 zł — dopłata ~2 400 zł za 2 butelki. Amica to opcja budżetowa (−600 zł), ale 16 butelek i 61,5 cm głębokości; kupować osobnym zamówieniem, żeby zachować kod.
+
 ## Do zrobienia
 
 - [ ] Potwierdzić w koszyku euro: CIV634 **2 099,00** i LFG716R **1 348,99**; kod `RKPROGAGD1026` = **−3 000**, baza **20 843,25**.
@@ -146,6 +178,7 @@ Stan na **26.10.2026**. **Wybór użytkownika (26.10.2026): płyta Electrolux CI
 - [ ] H2H: ustawić H5, sprawdzić start okapu po włączeniu pola; jeśli brak reakcji — połączenie zdalne w okapie i linia widzenia IR.
 - [ ] Płyta: 7,35 kW — osobny obwód; wycięcie 490+1 / 560+1 mm; 44 mm wys.
 - [ ] Potwierdzić zgodność SKK-DD z parą Samsung.
+- [ ] Winiarka LSBU18DZ: zmierzyć szafkę dolną (szer. ≥ 30 cm, wys. 82–88 cm, gł. ≥ 57,5 cm), zaplanować kratkę w cokole, sprawdzić kod `JESIEŃ` w electropoland i wersję (DZ / DZ2).
 - [ ] Zdecydować do **31.10.2026 23:45**: kod 3 000 i kod suszarki.
 - [ ] Rewizja lodówki: Gorenje 14 860,41 vs ADF0 15 663,44 — czy 2 obiegi i jeden sklep są warte **803,03 zł**.
 - [ ] Rejestracja cashbacków: Samsung do 21.12.2026, Whirlpool do 14.01.2027 (opinia ≥200 znaków, faktura bez NIP, kod EO).
