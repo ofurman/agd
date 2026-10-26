@@ -17,7 +17,7 @@ Koszyk został realnie zbudowany w Arc (9 pozycji), a kod wpisany w polu „Wpis
 
 - Kod **działa** i nadal daje pełne −3 000 (baza ≥16 000), ale **zastępuje** BLACK FRIDAY / EURO WJECHAŁO / „Piąty produkt za 1 zł”. Nie da się ich sumować — mechanika z pkt II.8.1 potwierdzona empirycznie.
 - Na koszyku z BES0 auto-promocje dawały 17 440,27 zł (z „Piątym” 17 266,43), a kod 15 933,25 zł. Realna przewaga kodu: **1 507,02 / 1 333,18 zł**, a nie 3 000 zł.
-- Koszyk bez lodówki (8 poz.) = **13 333,26 zł** przy bazie 16 333,26 zł — próg 16 000 nadal trzyma, ale z zapasem tylko 333,26 zł.
+- Koszyk bez lodówki (8 poz.) = **13 333,26 zł** przy bazie **15 233,26 zł** — to poniżej progu 16 000, więc kod daje **1 900**, nie 3 000 (13 333,26 = 15 233,26 − 1 900). Utrata 1 100 zł rabatu.
 - Wnioski z sekcji 1–9 (ceny z 25.10, brak testu koszyka) są historyczne. Nie planuj wariantów (h)/(i) — nie są osiągalne.
 
 

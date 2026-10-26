@@ -153,7 +153,7 @@ Legenda: ✓ spełnia, ✗ nie spełnia, **?** brak potwierdzenia w karcie produ
 | **Gorenje poza euro + 8 poz. euro** | 2 696,96 | 13 333,26 + 2 696,96 = **16 030,22** | −1 150 | **14 880,22** | ✓ D 185, 1 układ |
 | 8 poz. bez lodówki | – | 13 333,26 | −1 150 | 12 183,26 | – |
 
-**Uwaga:** koszyk bez lodówki nadal łapie próg 16 000 (baza 16 333,26), ale zapas to tylko 333,26 zł — każda obniżka ceny może ściąć rabat do 1 900.
+**Uwaga:** koszyk bez lodówki spada do bazy **15 233,26 zł** — poniżej progu 16 000, więc kod daje **1 900**, nie 3 000 (utrata 1 100 zł). Mimo to Gorenje wychodzi 203,03 zł taniej, bo sama lodówka jest tańsza o 1 603,03 zł, a cashback maleje o 300.
 
 ### Wnioski dla euro
 
@@ -163,7 +163,7 @@ Legenda: ✓ spełnia, ✗ nie spełnia, **?** brak potwierdzenia w karcie produ
 4. **Gorenje poza euro: 14 880,22 netto** — tylko +96,97 zł vs BES0 i −203,03 zł vs ADF0, ale 1 układ chłodzenia i drugi sklep. To najtańszy wariant zgodny z MUST energii.
 5. **ADF0 poza euro (Morele 3 971,69) nie był weryfikowany na żywo** — przy obecnej cenie euro 4 299,99 i cashbacku 300 różnica może być mała; nie zakładać.
 6. **ADS0 poza euro** nadal odpada (4 199–4 449).
-7. **Próg 16 000 nie pęka po wyjęciu lodówki** — baza 8 pozostałych to 16 333,26. To zmiana względem 25.10 (wtedy liczono 14 020,98 i utratę 1 100 zł).
+7. **Próg 16 000 pęka po wyjęciu lodówki** — baza 8 pozostałych to 15 233,26 zł, więc kod spada z 3 000 do 1 900. Mimo to Gorenje jest 203,03 zł tańsze niż ADF0, bo sama lodówka jest tańsza o 1 603,03 zł.
 8. **Praktyka:** w koszyku wpisz `RKPROGAGD1026` i sprawdź **−3 000** (baza 19 533,25). Kod jest ważny do 31.10.2026 23:45.
 
 ---
