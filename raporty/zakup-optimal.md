@@ -1,4 +1,52 @@
-# zakup-optimal – najlepszy koszyk AGD (2026-10-25)
+# zakup-optimal – najlepszy koszyk AGD (2026-10-25; koszyk zweryfikowany 26.10.2026)
+
+## 0. Weryfikacja na żywo w koszyku euro (26.10.2026, Arc)
+
+Sprawdzone w przeglądarce Arc: karty produktów euro.com.pl **oraz realny koszyk** (9 pozycji dodanych do koszyka, kod `RKPROGAGD1026` wpisany i aktywowany). To nie jest już odczyt z agregatorów.
+
+| Pozycja | Cena live 26.10 | Dostawa |
+|---|---:|---|
+| Whirlpool WOI7A8FHT2SBA | 3 499,00 | do 7 dni |
+| Samsung BRB80F30ADF0EO | **4 299,99** (było 3 971,69) | jutro |
+| Samsung BRB70F30BES0EO | 3 299,00 | jutro |
+| Whirlpool WBS2560NE | 1 348,00 | dziś/jutro |
+| Elica Elite 26 IX/A/60 | 638,99 | jutro |
+| Whirlpool WMD54MB | 1 849,99 | jutro |
+| Whirlpool W7IHT58T | 2 299,99 | jutro |
+| Samsung WW90CGC04DAE | 1 799,00 | jutro |
+| Samsung DV9MDG52A0AEEO | 2 489,00 | jutro |
+| Łącznik Samsung SKK-DD | **217,30** (było 249) | do 3 dni |
+
+**Kluczowa korekta mechaniki:** `RKPROGAGD1026` **nie sumuje się** z automatycznymi promocjami produktowymi (BLACK FRIDAY, EURO WJECHAŁO, „Piąty produkt za 1 zł”). Po wpisaniu kodu sklep pokazuje modal „promocje nie łączą się” i **zastępuje** tamte rabaty. Wcześniejsze założenie „−3000 nakłada się na ceny promocyjne” było błędne.
+
+**Zmierzone w koszyku (9 pozycji, lodówka ADF0):**
+
+| Wariant | Brutto | Cashback | Netto |
+|---|---:|---:|---:|
+| Baza bez promocji | 19 533,25 | — | — |
+| Tylko „Piąty produkt za 1 zł” | 19 316,95 | — | — |
+| **Kod `RKPROGAGD1026` (−3 000)** | **16 533,25** | **−1 450** | **15 083,25** |
+
+Cashback: Whirlpool 350 + 200 + 200 = 750; Samsung pralka 200 + suszarka 200 + lodówka ADF0 300 = 700. Razem **1 450**.
+
+**Warianty lodówki (ten sam koszyk 8 pozostałych):**
+
+| Lodówka | Brutto po kodzie | Cashback | Netto | MUST energia |
+|---|---:|---:|---:|---|
+| Samsung BES0 (E 229) | 15 933,25 | −1 150 | **14 783,25** | ✗ |
+| Gorenje NRKI519D61WF (2 696,96 Neonet) + 8 poz. euro | 13 333,26 + 2 696,96 = 16 030,22 | −1 150 | **14 880,22** | ✓ D 185 |
+| Samsung ADF0 (D 183, 2 obiegi) | 16 533,25 | −1 450 | **15 083,25** | ✓ |
+
+- Koszyk **bez lodówki nadal trzyma próg 16 000** (baza 16 333,26) — dopiero poniżej 16k rabat spada do 1 900. Zapas jest jednak mały (333,26 zł): każda obniżka ceny może zabrać 1 100 zł rabatu.
+- Auto-promocje na koszyku z BES0 dawały 17 440,27 (z „Piątym” 17 266,43), więc kod jest lepszy tylko o **1 507,02 / 1 333,18** — nie o 3 000. Kwoty „13 169,98 / 13 144” z sekcji 1–7 są nieaktualne.
+- **Rekomendacja po weryfikacji:** ADF0 w euro (jeden sklep, 2 obiegi, 298 l) = **15 083,25 netto**; Gorenje z Neonetu = **14 880,22** (najtaniej z energią D, ale 1 układ chłodzenia i drugi sklep); BES0 = 14 783,25, ale **E 229 kWh — łamie MUST**.
+- **Zestaw pralka+suszarka DG (sprawdzony 26.10, Arc):** Samsung WW90DG6U25LB + DV90DG6845LB = **5 499 zł z kodem** (list 6 299; osobno 6 498, więc zestaw oszczędza 999). W koszyku z `RKPROGAGD1026` kod produktowy znika → baza **20 604,25**, po rabacie **17 604,25**, cashback **1 550** (Whirlpool 750 + Samsung 200+300+300) → **16 054,25 netto**, czyli **+971 zł** vs para CGC04DAE+DV9MDG52A0AE. Samodzielnie: 5 499 + 217,30 link − 500 cashback = **5 216,30** vs **4 105,30** dla obecnej pary (+1 111). Zysk: czarny kolor, suszarka A 79 kWh/100 zamiast C 105, AI Control; zwrot z energii ~53 zł/rok → ~18 lat. **Nie opłaca się** przy priorytecie „bez dopłaty za AI”; szczegóły w `wymagania-AGD.md` §7.
+
+> Poniższe sekcje 1–11 to snapshot 25.10 (Amica, WMD7O4TX, ceny sprzed weryfikacji). Traktuj je jako historię; wiążące są liczby z tej sekcji.
+
+> **Aktualizacja 26.10.2026 — okap (snapshot 25.10, nieaktualne kwoty):** decyzja potwierdzona: **ELICA ELITE 26 IX/A/60** (inox/szary, 639 zł w Media Expert / RTV Euro / OleOle / ELECTRO; w euro 638,99 zł) zamiast Amica OTP6651BG (613 zł). Elica jest w ofercie euro, więc **wymiana 1:1**: koszyk 17 319,98 zł, rabat −3 000, netto po cashbackach **13 169,98 zł** (**+25,99 zł**; zapas nad progiem 16 000 zł = **1 320 zł**). Jeśli cena Elicy to 699 zł → netto 13 229,99 zł; jeśli wariant /VT 899,99 zł → 13 430,98 zł. **Biały** wariant Cata TFH 6630 WH (1 021 zł, poza euro) to +408 zł netto (13 551,99 zł), ale zapas progu spada do 681 zł. Szczegóły i rankingi: `okap-wybor.md`. Liczby w sekcjach 3, 6, 7 i 10 poniżej to snapshot 25.10 z Amicą.
+
+> **Decyzja 26.10.2026 — mikrofalówka: Whirlpool WMD54MB (czarny).** 1 849,99 zł, 31 l, talerz 32,5 cm, wnęka 380×556×550 mm, głęb. 46,8 cm, cashback 200. **W koszyku zamienić WMD7O4TX → WMD54MB** (WMD7O4TX to inox, nie czarny). Po wymianie: grupa progowa **16 634,25 zł** (zapas **634,25**), rabat −3 000, netto **14 283,25 zł** wg V1 (−299 zł vs WMD7O4TX) / **13 290,27 zł** naiwnie (+152 zł). Mniejszy zapas progu — nie kodować pozycji z grupy. Odrzucone budżetowe: Gorenje BM251M2BG 949 / Candy CA38FL7N25WXB 799 (31,5 cm, ~650 zł taniej). Szczegóły: `mikrofalowka-wybor.md`. Tabela w §3 i sumy w §1/§7 to snapshot 25.10 (WMD7O4TX, Amica).
 
 ## 1. Rekomendacja
 
@@ -52,7 +100,7 @@ To nie jest „najtaniej po jednej sztuce”. To najtaniej **po spełnieniu wszy
 
 | Akcja | Nasze pozycje | Kwota | Termin | Warunki krytyczne |
 |---|---|---|---|---|
-| **Whirlpool „Spokój zaczyna się od mądrych decyzji”** | WOI7A8FHT2SBA **350** + WB S2560 NE **200** + WMD7O4TX **200** | **750 zł** | zakup 1.09–31.12.2026; zgłoszenie do 14.01.2027 | min. 2 produkty **z piekarnikiem**; piekarnik rejestrujesz w 14 dni od zakupu, pozostałe w 3 dni od rejestracji piekarnika; paragon/faktura bez NIP; opinia z `#PromocjaZyskajSpokój`; pula 1,5 mln zł |
+| **Whirlpool „Spokój zaczyna się od mądrych decyzji”** | WOI7A8FHT2SBA **350** + WB S2560 NE **200** + WMD54MB **200** | **750 zł** | zakup 1.09–31.12.2026; zgłoszenie do 14.01.2027 | min. 2 produkty **z piekarnikiem**; piekarnik rejestrujesz w 14 dni od zakupu, pozostałe w 3 dni od rejestracji piekarnika; paragon/faktura bez NIP; opinia z `#PromocjaZyskajSpokój`; pula 1,5 mln zł |
 | **Samsung cashback AGD** | WW90CGC04DAEEO **200** + DV9MDG52A0AEEO **200** | **400 zł** | zakup 1.10–30.11.2026; rejestracja do 21.12.2026 | kod **…EO**, sprzęt z polskiej dystrybucji, opinia ≥200 znaków z 2 hasztagami, paragon bez NIP; **BRB70F30BES0EO nie jest objęta** |
 | **Razem** | | **1150 zł** | | |
 
@@ -74,10 +122,12 @@ Uwaga: zwrot w ciągu 14 dni odbiera prawo do cashbacku. Nie zwracaj części ko
 | Płyta | Whirlpool WLB3360NE | 1199 (MM) | Tańsza, ale **brak potwierdzonego suwaka na strefę / FlexiCook** w tej linii. |
 | Okap | **Amica OTP6651BG** | 613 | Najtańszy kandydat, ale dB 57–63 to prawdopodobnie moc akustyczna; **brak twardego ≤55 dB**. Jeśli chcesz potwierdzone 48 dB — patrz Electrolux niżej. |
 | Okap | Bosch DFS067K51 | 2449 | 392 m³/h na zwykłym biegu — **poniżej wymaganych 400**. |
-| Mikrofalówka | WMD44MX / WMD44MB | 1619 / 1798; cashback 200 | Tańsze od WMD7O4TX (1619 vs 1698) i mają 32,5 cm / 31 l, ale po wyjęciu z koszyka spada próg. WMD7O4TX jest w koszyku i również łapie 200 zł. |
+| Mikrofalówka | WMD44MX / WMD44MB | 1619 / 1798; cashback 200 | Tańsze od wybranego WMD54MB (1849,99), mają 32,5 cm / 31 l, ale po wyjęciu z koszyka spada próg. WMD54MB jest w koszyku i łapie 200 zł. |
 | Mikrofalówka | Bosch BFL554MB0 | 1406,74 | Najtańsza spełniająca (31,5 cm / 25 l), ale inna marka i mniejszy talerz; poza koszykiem. |
 | Zmywarka | **Gorenje GV663B65** | 2399 (Sferis) | 16 kpl, 38 dB, AquaStop, auto-drzwi — bardzo dobra, ale **+99 zł** i poza koszykiem. |
 | Zmywarka | Beko MEDIN3755A | 2496,96 (ME) | AutoDose, zawiasy przesuwne, ale **+197 zł**. |
+| Zmywarka | **Beko BDIN37540WP** (link użytkownika) | 2035 (Ceneo 25.10) | **42 dB ✗** — nie spełnia MUST ≤40 dB (karta Beko); 15 kpl, auto-drzwi, szuflada, PowerIntense, 5,9 l. −265 zł vs W7I, ale **nie zamieniać**. |
+| Zmywarka | **Beko BDIN37541WP** | 1989 (Ceneo 25.10; w koszyku potwierdzić, czy nie wróci 2219,99) | 15 kpl, **40 dB**, PowerIntense + TrayWash, MaxiDry, 3-poziomowe kosze, auto-drzwi, szuflada; **−311 zł** vs W7I → netto **12 833,00**; przy 2219,99 → **−80 zł** i netto **13 063,99**. |
 | Zmywarka | Whirlpool WH8IA15AM3TUS0 | 3197,96 (ME) | Klasa A, AquaStop, zawiasy przesuwne, ale **+898 zł**. |
 | Pralnia | **Bosch WGG244ZEPL + WQG245DEPL + WTZ27400** | 2399 + 3299 + 283 = 5981; cashback 500 → **5481** | **+1593 zł** vs Samsung po cashbacku. Lepszy: samoczyszczący skraplacz, 61 dB, AutoDry. Opcja „jakość ponad cenę”. |
 | Pralnia | Media Expert `K-5241` (pralka −50%) | 1149,99 + 2799,99 + 229 = **4178,98** | To **inne kody** (WW90CGC04DA**H**, DV90DG52A0A**H**), poza listą cashbacku Samsunga. Po cashbacku euro para wychodzi **3888 zł** — ME jest drożej o ~291 zł. |
@@ -167,7 +217,7 @@ Dodatkowo poza koszykiem, jeśli budżet pozwala:
 2. **Przed zamówieniem** — potwierdź w COK Samsung/euro:
    - czy do WW90CGC04DAE + DV9MDG52A0AE jest `SKK-DD` czy `1318804` i ile kosztuje `1318804`;
    - czy `W7I HT58 T` ma pełny AquaStop (karta euro vs MM/Avans);
-   - czy `WMD7O4TX` ma wysokość 38,5 cm i wnękę 38 cm;
+   - czy `WMD54MB` ma wnękę 380×556×550 mm i głębokość 46,8 cm (potwierdzić w instrukcji);
    - czy `BRB70F30BES0EO` ma zawiasy ślizgowe (ME/Avans potwierdzają).
 3. **Do 14 dni od zakupu piekarnika** — rejestracja Whirlpool na `whirlpool-promocja.pl`; piekarnik pierwszy, płytę i mikrofalówkę dodaj w ciągu 3 dni od rejestracji piekarnika.
 4. **Do 21.12.2026** — rejestracja Samsung na `cashbackagd.samsung.pl` (pralka + suszarka).
@@ -181,7 +231,7 @@ Dodatkowo poza koszykiem, jeśli budżet pozwala:
 1. **Kod 31.10** — po terminie koszyk wraca do ~15,4–16,9 tys. zł. To najbardziej kosztowny błąd.
 2. **Łącznik** — `SKK-DD` jest opisywany jako do paneli LED; dla WW**CG** (AI Control) Samsung wskazuje `1318804`. Cena nieznana; koszyk trzyma próg nawet bez łącznika, więc nie panikuj, ale nie kupuj złego.
 3. **Okap** — Amica 57–63 dB to prawdopodobnie moc akustyczna (LwA). To może odpowiadać ~48–53 dB w kuchni, ale **nie jest to potwierdzone**. Alternatywa: Electrolux LFP326FB 659 zł (48 dB niski bieg, fi 150, 410 m³/h), ale klapa zwrotna niepotwierdzona.
-4. **Kuchenka mikrofalowa** — `WMD7O4TX` ma 31 l / 32,5 cm / 38,5 cm; sprawdź wymóg wnęki 38 cm z instrukcji. `W7 MD440 NB` jest wycofana.
+4. **Kuchenka mikrofalowa** — decyzja: **`WMD54MB`** (czarny, 32,5 cm / 31 l / 38,5 cm; 1 849,99 zł; cashback 200), w koszyku **zamiast `WMD7O4TX`** (inox). Wnęka wg instrukcji: **380×556×550 mm**, głęb. 46,8 cm. Zapas progu po wymianie spada do **634,25 zł** — sprawdzić, że rabat = 3 000 zł. Szczegóły: `mikrofalowka-wybor.md`.
 5. **Lodówka** — `BRB70F30BES0EO` nie ma cashbacku Samsunga; `BRB80F30ADS0EO` ma 300 zł, ale jest droższa i psuje próg.
 6. **Zmywarka AquaStop** — karta euro mówi o zabezpieczeniu węża, MM/Avans o AquaStop. To NICE, nie MUST; potwierdź, jeśli zależy Ci na pełnej ochronie.
 7. **Ceny euro** — część pochodzi z agregatorów, nie z karty na żywo. Przed płatnością sprawdź każdą pozycję w koszyku; jeśli któraś podrożeje, próg 16 000 zł nadal musi być spełniony.

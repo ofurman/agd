@@ -3,6 +3,24 @@
 Zakres: czy którakolwiek promocja koszykowa („5. produkt za 1 zł”, „drugi produkt −40%”, progi, „X za Y”) bije rabat **3 000 zł** z kodu `RKPROGAGD1026` i czy da się ją z nim połączyć oraz z cashbackami producentów.
 Koszyk wzorcowy: 9 pozycji, **17 293,99 zł** brutto (ceny z 25.10.2026, statusy jak w `euro.com.pl.md`), cashbacki **750 zł Whirlpool + 400 zł Samsung = 1 150 zł**.
 
+## 0. Test koszyka na żywo (26.10.2026, Arc) — nadpisuje wnioski z 25.10
+
+Koszyk został realnie zbudowany w Arc (9 pozycji), a kod wpisany w polu „Wpisz kod rabatowy”. Wynik:
+
+| Krok | Obserwacja |
+|---|---|
+| Koszyk 9 poz. z ADF0, bez promocji | **19 533,25 zł** |
+| „Piąty produkt za 1 zł” (auto) | 19 316,95 zł (−216,30) |
+| **`RKPROGAGD1026`** | modal „promocje nie łączą się”; po aktywacji **−3 000,00 → 16 533,25 zł** |
+| Cashback | Whirlpool 750 + Samsung 700 (200+200+300 ADF0) = **1 450 zł** |
+| **Netto** | **15 083,25 zł** |
+
+- Kod **działa** i nadal daje pełne −3 000 (baza ≥16 000), ale **zastępuje** BLACK FRIDAY / EURO WJECHAŁO / „Piąty produkt za 1 zł”. Nie da się ich sumować — mechanika z pkt II.8.1 potwierdzona empirycznie.
+- Na koszyku z BES0 auto-promocje dawały 17 440,27 zł (z „Piątym” 17 266,43), a kod 15 933,25 zł. Realna przewaga kodu: **1 507,02 / 1 333,18 zł**, a nie 3 000 zł.
+- Koszyk bez lodówki (8 poz.) = **13 333,26 zł** przy bazie 16 333,26 zł — próg 16 000 nadal trzyma, ale z zapasem tylko 333,26 zł.
+- Wnioski z sekcji 1–9 (ceny z 25.10, brak testu koszyka) są historyczne. Nie planuj wariantów (h)/(i) — nie są osiągalne.
+
+
 ## Jak zdobyto dane (i czego nie udało się zrobić)
 
 | Źródło | Status dostępu |
