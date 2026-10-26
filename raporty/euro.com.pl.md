@@ -1,5 +1,7 @@
 # euro.com.pl – raport (25.10.2026; ceny koszyka zweryfikowane 26.10.2026)
 
+> **Aktualizacja 26.10.2026 — decyzja użytkownika: płyta Electrolux CIV634 (2 099,00) + okap Electrolux LFG716R (1 348,99).** Poniższe tabele są snapshotem rynku z 25.10 (WBS2560NE, LFP326FW); wiersze wybranych modeli są oznaczone. Aktualny koszyk: baza **20 843,25**, kod −3 000, netto **16 193,25** / podział **15 663,44** — patrz `README.md` i `zakup-optimal.md` §0.
+
 **Źródło wszystkich cen:** strona sklepu euro.com.pl (REST API sklepu `/rest/api/products…`, te same dane co karta produktu), stan na 25.10.2026. **Uzupełnienie 26.10.2026:** ceny 10 pozycji oraz zachowanie koszyka i kodu `RKPROGAGD1026` sprawdzone na żywo w Arc — patrz `zakup-optimal.md` §0 i `koszyk-euro.md` §0. Ceny „z kodem” to kody produktowe pokazane przy produkcie (naliczają się automatycznie w koszyku). Ceneo blokuje boty (captcha), więc ceneo nie było źródłem.
 Legenda MUST: ✓ = spełnia wg karty sklepu, ✗ = nie spełnia, ? = karta sklepu nie podaje / do sprawdzenia w instrukcji.
 Linki: `https://www.euro.com.pl/<kategoria>/<produkt>.bhtml`.
@@ -8,7 +10,7 @@ Linki: `https://www.euro.com.pl/<kategoria>/<produkt>.bhtml`.
 
 | Promocja | Warunki | Ważność | Łączenie |
 |---|---|---|---|
-| **Nawet 3000 zł rabatu** (kod koszykowy **RKPROGAGD1026**) | Min. 2 produkty promocyjne o łącznej wartości ≥ 1000 zł. Rabat: 100 zł (od 1000 zł), 250 zł (od 2000), 400 zł (od 3000), **750 zł (od 5000)**, **1400 zł (od 9000)**, 1900 zł (od 12 000), 3000 zł (od 16 000). Maks. 2 szt. tego samego modelu. Obejmuje prawie wszystkie produkty z tego raportu (plakietka na karcie). | 07.10–**31.10.2026 23:45** | To kod koszykowy. Produkt objęty kodem koszykowym **nie dostaje już kodu produktowego**. Opłaca się więc dla produktów **bez** kodu produktowego (wzorce: piekarnik, zmywarka, okap Elica, łącznik). [cms/agd-nawet-3000zl-rabatu](https://www.euro.com.pl/cms/agd-nawet-3000zl-rabatu.bhtml) |
+| **Nawet 3000 zł rabatu** (kod koszykowy **RKPROGAGD1026**) | Min. 2 produkty promocyjne o łącznej wartości ≥ 1000 zł. Rabat: 100 zł (od 1000 zł), 250 zł (od 2000), 400 zł (od 3000), **750 zł (od 5000)**, **1400 zł (od 9000)**, 1900 zł (od 12 000), 3000 zł (od 16 000). Maks. 2 szt. tego samego modelu. Obejmuje prawie wszystkie produkty z tego raportu (plakietka na karcie). | 07.10–**31.10.2026 23:45** | To kod koszykowy. Produkt objęty kodem koszykowym **nie dostaje już kodu produktowego**. Opłaca się więc dla produktów **bez** kodu produktowego (wzorce: piekarnik, zmywarka, okap LFP326FW, łącznik). [cms/agd-nawet-3000zl-rabatu](https://www.euro.com.pl/cms/agd-nawet-3000zl-rabatu.bhtml) |
 | **Wielosztuki / 5. produkt za 1 zł** (kod **WIEL**) | Przy 2 różnych produktach tańszy −30%, przy 3 najtańszy −55%, przy 4 −80%, przy 5+ **najtańszy za 1 zł**. Na naszym koszyku: jedna transakcja 9 pozycji = **−612 zł** (okap), podział **4+3+2 = −2 656,09 zł**. | Bezterminowo (od 31.05.2026; Pepper ~05.11.2026) | Kod koszykowy. **Nie łączy się** z `RKPROGAGD1026` na tych samych produktach; przegrywa o 343,91 zł. [cms/piaty-za-1-zl](https://www.euro.com.pl/cms/piaty-za-1-zl.bhtml) |
 | **50 zł za każde wydane 500 zł** (kod **50ZA500201026**) | To **kod na kolejne zakupy (codeback)**, nie rabat od razu. Przykłady z kart: lodówka Samsung 350 zł, Candy 300 zł, Amica 200 zł. Kod ważny 3 miesiące. Kod obniża zakup maks. o 50%. Maks. 2000 zł. | 20.10–**03.11.2026** | Wykorzystanie kodu nie łączy się z kodami produktowymi i koszykowymi. To, czy zakup z kodem produktowym daje prawo do codebacku: **niepotwierdzone** (regulamin). [cms/50-za-500](https://www.euro.com.pl/cms/50-za-500.bhtml) |
 | **Whirlpool Days – drugi tańszy −40%** (kod **RKWHIRLPOOLDAYS40PR1026**) | Min. 2 różne produkty Whirlpool z promocji, tańszy −40%. Objęte m.in.: płyta WBS2560NE, lodówka WHC20T573P, zmywarki WIO3O540PELG i W7IHP40L, mikrofalówki AMW6440FB, WMD54MB i WMD7O4TB. **Wzorce WOI7A8FHT2SBA i W7IHT58T nie są objęte.** | 13.10–**26.10.2026 23:45 (jutro!)** | Kod koszykowy (zastępuje kody produktowe). [cms/whirlpool-days-najtanszy-40proc](https://www.euro.com.pl/cms/whirlpool-days-najtanszy-40proc.bhtml) |
@@ -69,6 +71,7 @@ MUST: 59–60 cm / strefa łączona / 4 pola / booster / suwak na strefę / bły
 
 | Model | Typ | Cena reg. | Cena promo / z kodem | Kod + ważność | MUST ok? | Co lepsze / gorsze vs wzorzec | Link |
 |---|---|---|---|---|---|---|---|
+| **Electrolux CIV634** | **WYBÓR 26.10.2026** | 2 099 zł | 2 099 zł | – (kod koszykowy) | 59 cm ✓, Bridge ✓, 4 pola ✓, Booster 3,2 kW ✓, **suwak: jeden pasek + wybór pola (7/8)** | 44 mm, H2H, czarne błyszczące; para z LFG716R 3 447,99 → cashback Electrolux 400. **H2H — główny powód.** | [link](https://www.euro.com.pl/plyty-do-zabudowy/electrolux-civ634.bhtml) |
 | Whirlpool WB S2560 NE (bez matu) | wzorzec | 1499 zł | **1348 zł** | **REW2010311026C**, do 31.10.2026 23:45 | ✓ wszystkie (FlexiCook, suwak, szkło ceramiczne, 4 programy 6. Zmysł, blokada, wskaźnik) | 7,2 kW. W Whirlpool Days (−40% jako tańszy produkt do 26.10). | [link](https://www.euro.com.pl/plyty-do-zabudowy/whirlpool-wb-s2560-ne.bhtml) |
 | Whirlpool WBS2560NEBM MattProtect | – | 2249 zł | – | – | ✗ (mat) | niechciany | – |
 | Indesit IS35Q60NE | odpowiednik (najtańszy) | 899 zł | **697 zł** | REW1610311026C1 do 31.10.2026 | 59 cm ✓, łączenie stref ✓ (filtr sklepu), 4 pola ✓, booster ✓, **suwak ✓ (osobny na strefę ?)**, szkło ✓, blokada i wskaźnik ✓ | −651 zł. Brak programów automatycznych (NICE). | [link](https://www.euro.com.pl/plyty-do-zabudowy/indesit-is35q60ne-59cm-czarny.bhtml) |
@@ -79,13 +82,15 @@ MUST: 59–60 cm / strefa łączona / 4 pola / booster / suwak na strefę / bły
 
 Odrzucone: Beko HII64200SFMT (1146 zł, brak suwaka) i Electrolux LIV63431BK (1448 zł, brak suwaka).
 
-## 4. Okap teleskopowy
+## 4. Okap — wkład (wybór) + teleskopy (historia)
 
-Karty sklepu podają **tylko maksymalną głośność i wydajność**. Nie podają głośności na biegu codziennym, klapy zwrotnej, silnika BLDC ani minimalnej głębokości szafki, więc te MUST są „?” dla wszystkich. Wszystkie poniżej: teleskopowy, 60 cm, wylot fi 150 (filtr sklepu), filtry metalowe.
+Karty sklepu podają **tylko maksymalną głośność i wydajność**. Nie podają głośności na biegu codziennym, klapy zwrotnej, silnika BLDC ani minimalnej głębokości szafki, więc te MUST są „?” dla wszystkich. **Wybrany LFG716R to wkład 54 cm; pozostałe wiersze to historyczne teleskopy 60 cm.**
 
 | Model | Typ | Cena reg. | Cena promo / z kodem | Kod + ważność | MUST ok? | Co lepsze / gorsze | Link |
 |---|---|---|---|---|---|---|---|
-| Elica Elite 26 IX/A/60 | odpowiednik (najtańszy sensowny) | 638,99 zł | 638,99 zł (wchodzi do „Nawet 3000”) | – | fi150 ✓, 581 m³/h maks. (bieg zwykły ?), filtry alu ✓, głośność maks. 61 dB (bieg codzienny ?), klapa ?, gł. 28 cm ✓ | booster, wybieg. Listwa stalowa (nie czarna). | [link](https://www.euro.com.pl/okapy/elica-26-ix-a-60-stalowy.bhtml) |
+| **Electrolux LFG716R** | **WYBÓR 26.10.2026 (wkład)** | 1 348,99 zł | 1 348,99 zł | – (kod koszykowy) | wkład 54 cm ✓, 580/700 m³/h ✓, 67/54 dB ✓, Ø150 ✓, H2H ✓, klapa ? | 30 cm głębokości (przednie pola poza obrysem); para z CIV634 3 447,99 → 400 zł. | [link](https://www.euro.com.pl/okapy/electrolux-lfg716r.bhtml) |
+| **Electrolux LFP326FW (biały)** | historyczny (zastąpiony przez LFG716R) | 789 zł | **638,99 zł promo** (wchodzi do „Nawet 3000”) | – | fi150 ✓, **410 m³/h maks.**, **57 dB LwA min. / 69 maks.**, filtry alu ✓, gł. 28,4 cm ✓; **2 MUST niepełne**; klapa ? | biały teleskop, 3 biegi, 100 W, klasa C, bez timera. **Nieaktualny wybór.** | [karta ME](https://www.mediaexpert.pl/agd-do-zabudowy/okapy-do-zabudowy/okap-electrolux-lfp326fw-bialy-410m3-h-69db-klasa-c) (euro: szukaj LFP326FW) |
+| Elica Elite 26 IX/A/60 | alternatywa (najcichsza) | 638,99 zł | 638,99 zł (wchodzi do „Nawet 3000”) | – | fi150 ✓, 581 m³/h maks. (bieg zwykły 480–496), filtry alu ✓, głośność 44–61 dB, klapa ?, gł. 28 cm ✓ | booster, wybieg, timer. Listwa stalowa (nie biała). | [link](https://www.euro.com.pl/okapy/elica-26-ix-a-60-stalowy.bhtml) |
 | Maan Corona BIS G 60 | odpowiednik | 699 zł | 627 zł | RGBF18311026 do 31.10.2026 | 615 m³/h, 66 dB maks., reszta ? | czarny | [link](https://www.euro.com.pl/okapy/maan-corona-bis-g-60-czarny.bhtml) |
 | VDB Ideal Pro 60 Black | odpowiednik | 749 zł | 749 zł | – | 670 m³/h, 62 dB maks., timer | czarny | [link](https://www.euro.com.pl/okapy/vdb-ideal-pro-60-black.bhtml) |
 | Whirlpool WAHTT 64 LM K | odpowiednik | 879 zł | 879 zł | – | 581 m³/h, 65 dB, filtry stalowe | czarny, Whirlpool (spójny z piekarnikiem) | [link](https://www.euro.com.pl/okapy/whirlpool-wahtt-64-lm-k-czarny.bhtml) |
@@ -147,14 +152,14 @@ Inne suszarki (z kodem): Electrolux EW6D297GP 2299 zł (gł. 63,6 cm), Gorenje D
 
 ## Najtańszy koszyk w tym sklepie
 
-**Wariant A – wszystkie MUST potwierdzone (lub tylko drobne „?”), z optymalnym użyciem kodów.** Do „Nawet 3000 zł rabatu” (RKPROGAGD1026) wkładamy produkty **bez** kodu produktowego i lodówkę Samsung. Lodówka bez kodu kosztuje 3699,99 zł, ale podnosi koszyk do progu 9000 zł, a próg daje rabat 1400 zł zamiast 750 zł. Zysk netto ok. 250 zł względem kodu produktowego.
+**Wariant A – maksymalnie dużo MUST potwierdzonych (okap LFP326FW ma 2 niepełne), z optymalnym użyciem kodów.** Do „Nawet 3000 zł rabatu” (RKPROGAGD1026) wkładamy produkty **bez** kodu produktowego i lodówkę Samsung. Lodówka bez kodu kosztuje 3699,99 zł, ale podnosi koszyk do progu 9000 zł, a próg daje rabat 1400 zł zamiast 750 zł. Zysk netto ok. 250 zł względem kodu produktowego.
 
 | Pozycja | Model | Cena |
 |---|---|---|
 | Grupa „Nawet 3000”: piekarnik | Whirlpool WOI7A8FHT2SBA | 3499,00 |
 | Grupa „Nawet 3000”: zmywarka | Whirlpool W7IHT58T | 2299,99 |
 | Grupa „Nawet 3000”: lodówka | Samsung BRB70F30BES0EO (cena bez kodu) | 3699,99 |
-| Grupa „Nawet 3000”: okap | Elica Elite 26 IX/A/60 | 638,99 |
+| Grupa „Nawet 3000”: okap | Electrolux LFP326FW (biały) | 638,99 |
 | Grupa „Nawet 3000”: łącznik | Samsung SKK-DD | 217,30 |
 | **Rabat RKPROGAGD1026** (10 355,27 zł ≥ 9000 zł) | | **−1400,00** |
 | Płyta (kod) | Whirlpool WB S2560 NE | 1348,00 |

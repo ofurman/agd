@@ -1,5 +1,7 @@
 # Promocje koszykowe w Neonet, Avans, Morele i Sferis — czy biją 3 000 zł? (25.10.2026)
 
+> **Snapshot sprzed decyzji 26.10.2026 (WBS2560NE + LFP326FW).** Aktualny wybór: CIV634 + LFG716R; koszyk netto 16 193,25 / 15 663,44 — patrz `README.md`. Poniższe sumy są historyczne.
+
 ## 0. Wnioski w skrócie
 
 1. **Żadna promocja koszykowa w tych czterech sklepach nie bije 3 000 zł na naszym koszyku 9 pozycji.**

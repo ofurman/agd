@@ -1,5 +1,7 @@
 # Koszyk przez kanały oficjalne i Allegro — czy coś bije 3000 zł z euro.com.pl (2026-10-25)
 
+> **Snapshot sprzed decyzji 26.10.2026 (WBS2560NE + LFP326FW).** Aktualny wybór: CIV634 + LFG716R; koszyk netto 16 193,25 / 15 663,44 — patrz `README.md`. Poniższe sumy są historyczne.
+
 **Pytanie:** czy promocja koszykowa „5. produkt za 1 zł / darmo”, „drugi produkt −40%” albo inna akcja w **whirlpool.pl**, **samsung.pl** lub na **Allegro** daje więcej niż **−3000 zł** z kodu `RKPROGAGD1026`, i czy da się ją połączyć z tym kodem oraz cashbackami producentów.
 
 **Odpowiedź w jednym zdaniu:** **nie.** Żadna sprawdzona promocja w tych trzech kanałach nie przekracza 3000 zł, a każda, która wymaga rozbicia koszyka, **kasuje próg 16 000 zł** w euro — czyli traci się 3000 zł, żeby zyskać 100–678 zł.

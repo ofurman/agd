@@ -21,10 +21,10 @@
 **Nowy baseline: Samsung BRB80F30ADF0EO — 4 299,99 zł w euro, po cashbacku 300 zł = 3 999,99 zł (live 26.10.2026, Arc).**
 298 l, D 183 kWh, 35 dB, Twin Cooling Plus (2 obiegi), No Frost, Optimal Fresh+, Metal Cooling; zawiasy nożycowe (poza MUST). To ten sam rdzeń co ADS0, ale dziś tańszy od ADS0 i o 326 zł od BDS0. **Uwaga: cena wzrosła z 3 971,69 (Morele, 25.10) do 4 299,99 w euro.**
 
-**Koszyk euro (weryfikacja 26.10):** ADF0 + 8 pozostałych pozycji, kod `RKPROGAGD1026` −3 000 → **16 533,25 zł**; cashbacki 1 450 zł (Whirlpool 750 + Samsung 700) → **15 083,25 zł netto**. Ten sam koszyk z BES0 (E 229) = 14 783,25 zł netto, ale łamie MUST energii; bez lodówki (8 poz.) = 13 333,26 zł netto 12 183,26, a z Gorenje 2 696,96 = **14 880,22 zł netto**.
+**Koszyk euro (po wyborze CIV634 + LFG716R):** ADF0 + 8 pozostałych pozycji, kod `RKPROGAGD1026` −3 000 → **17 843,25 zł**; cashbacki 1 650 zł (Whirlpool 550 + Samsung 700 + Electrolux 400) → **16 193,25 zł netto**. Ten sam koszyk z BES0 (E 229) = 15 893,25 zł netto, ale łamie MUST energii; bez lodówki (8 poz.) baza 16 543,26 zł — nadal >16 000; Gorenje wariant 7 poz. + Neonet = **14 860,41 zł netto**.
 
 **Najlepsza wartość: Gorenje NRKI519D61WF — 2 696,96 zł (Neonet, kod OKAZJE114 do 31.10.2026).**
-284 l, D 185 kWh, 35 dB, pełny No Frost. Spełnia wszystkie MUST, ale ma **1 niezależny układ chłodzenia** — NICE „2 obiegi” nie jest spełnione. Oszczędza **1 303,03 zł** względem ADF0 netto (4 299,99 − 300 cashback) — a w koszyku euro z 8 pozostałymi pozycjami daje **14 880,22 zł netto** vs 15 083,25 zł z ADF0.
+284 l, D 185 kWh, 35 dB, pełny No Frost. Spełnia wszystkie MUST, ale ma **1 niezależny układ chłodzenia** — NICE „2 obiegi” nie jest spełnione. **14 860,41 zł netto** vs **16 193,25 zł** z ADF0 — oszczędza **1 332,84 zł** w koszyku, ale wymaga drugiego sklepu.
 
 **Najcichsza i najpojemniejsza w tej cenie: Haier HBW7519DT — 3 599,98 zł.**
 300 l (214+86), D 190 kWh, **32 dB**, pełny No Frost, Humidity Zone, My Zone, Wi-Fi hOn. Oficjalna karta mówi o **osobnej cyrkulacji powietrza w każdej strefie**, ale to **1 agregat i 2 termostaty** — nie potwierdzono dwóch parowników. Od ADF0 netto jest tańsza o 72 zł i o 3 dB cichsza, ale zużywa 7 kWh/rok więcej (+8,05 zł/rok).
@@ -144,27 +144,27 @@ Legenda: ✓ spełnia, ✗ nie spełnia, **?** brak potwierdzenia w karcie produ
 
 **Uwaga: ADF0 3 971,69 (Morele), Gorenje 2 696,96 (Neonet) i Haier 3 599,98 (ME) to nie ceny euro.** W euro ADF0 kosztuje **4 299,99 zł** (live 26.10); 70 BES0 **3 299 zł**; 70 BEF0 **3 599,99 zł**; ADS0 nie ma w euro (4 199–4 449 zł poza).
 
-**Baseline euro (z Elicą), live 26.10.2026 (Arc):** koszyk 9 poz. z ADF0: baza **19 533,25** → kod **−3 000** → **16 533,25**; cashback **1 450** (Whirlpool 750 + Samsung 400 + ADF0 300) → **15 083,25 netto**.
+**Baseline euro (po wyborze CIV634 + LFG716R), 26.10.2026:** koszyk 9 poz. z ADF0: baza **20 843,25** → kod **−3 000** → **17 843,25**; cashback **1 650** (Whirlpool 550 + Samsung 700 + Electrolux 400) → **16 193,25 netto**.
 
 | Wariant | Lodówka | Brutto po kodzie | Cashback | Netto | MUST energia |
 |---|---|---:|---:|---:|---|
-| **ADF0 w euro (9 poz.)** | 4 299,99 | **16 533,25** | −1 450 | **15 083,25** | ✓ D 183, 2 obiegi |
-| **BES0 w euro (9 poz.)** | 3 299 | 15 933,25 | −1 150 | **14 783,25** | ✗ E 229 |
-| **Gorenje poza euro + 8 poz. euro** | 2 696,96 | 13 333,26 + 2 696,96 = **16 030,22** | −1 150 | **14 880,22** | ✓ D 185, 1 układ |
-| 8 poz. bez lodówki | – | 13 333,26 | −1 150 | 12 183,26 | – |
+| **ADF0 w euro (9 poz.)** | 4 299,99 | **17 843,25** | −1 650 | **16 193,25** | ✓ D 183, 2 obiegi |
+| **BES0 w euro (9 poz.)** | 3 699,99 (list) | 17 243,25 | −1 350 | **15 893,25** | ✗ E 229 |
+| **Gorenje + 7 poz. euro + łącznik Neonet** | 2 696,96 | 13 325,96 + 2 696,96 + 187,49 = **16 210,41** | −1 350 | **14 860,41** | ✓ D 185, 1 układ |
+| 8 poz. bez lodówki (niepełny koszyk) | – | 13 543,26 | −1 350 | 12 193,26 | – |
 
-**Uwaga:** koszyk bez lodówki spada do bazy **15 233,26 zł** — poniżej progu 16 000, więc kod daje **1 900**, nie 3 000 (utrata 1 100 zł). Mimo to Gorenje wychodzi 203,03 zł taniej, bo sama lodówka jest tańsza o 1 603,03 zł, a cashback maleje o 300.
+**Uwaga:** po podniesieniu bazy o 1 310 zł koszyk bez lodówki ma **16 543,26 zł** (8 poz. z łącznikiem) — **nadal powyżej progu 16 000**, więc kod daje **3 000**, nie 1 900. Dzięki temu Gorenje nie traci rabatu: **14 860,41 zł netto** (7 poz. euro + Gorenje + łącznik Neonet) jest **803,03 zł tańsze** od ADF0. ADF0 wygrywa tylko funkcjami: 2 obiegi, 298 l, jeden sklep.
 
 ### Wnioski dla euro
 
-1. **Kod nie sumuje się z auto-promocjami** (BLACK FRIDAY, EURO WJECHAŁO, Piąty za 1 zł) — zastępuje je. Dlatego −3 000 daje realnie ~1 333–1 507 zł przewagi nad najlepszym wariantem bez kodu, a nie pełne 3 000.
-2. **Najtańszy total: BES0 3 299 — 14 783,25 netto**, ale E 229 kWh — nie spełnia MUST energii.
-3. **Najlepszy total z D w jednym sklepie: ADF0 — 15 083,25 netto** (+300 zł vs BES0). Dostajesz D 183, 2 obiegi i 298 l.
-4. **Gorenje poza euro: 14 880,22 netto** — tylko +96,97 zł vs BES0 i −203,03 zł vs ADF0, ale 1 układ chłodzenia i drugi sklep. To najtańszy wariant zgodny z MUST energii.
-5. **ADF0 poza euro (Morele 3 971,69) nie był weryfikowany na żywo** — przy obecnej cenie euro 4 299,99 i cashbacku 300 różnica może być mała; nie zakładać.
+1. **Kod nie sumuje się z auto-promocjami** (BLACK FRIDAY, EURO WJECHAŁO, Piąty za 1 zł) — zastępuje je. Po zmianie płyty/okapu kod i tak wygrywa z kodami pozycji o **2 059,01 zł** (16 193,25 vs 18 252,26).
+2. **Najtańszy total z MUST energii: Gorenje 14 860,41 netto** (7 poz. euro + Gorenje + łącznik Neonet) — o **803,03 zł taniej** od ADF0; ma 1 układ chłodzenia i drugi sklep.
+3. **Najlepszy total z D i 2 obiegami: ADF0 — 16 193,25 netto** (1 koszyk) / **15 663,44** (podział z pralką osobno). 298 l, 2 obiegi, jeden sklep.
+4. **BES0 15 893,25 netto** — ale E 229 kWh, **łamie MUST energii**; nie kupować.
+5. **ADF0 poza euro (Morele 3 971,69) nie był weryfikowany na żywo** — przy cenie euro 4 299,99 i cashbacku 300 różnica może być mała; nie zakładać.
 6. **ADS0 poza euro** nadal odpada (4 199–4 449).
-7. **Próg 16 000 pęka po wyjęciu lodówki** — baza 8 pozostałych to 15 233,26 zł, więc kod spada z 3 000 do 1 900. Mimo to Gorenje jest 203,03 zł tańsze niż ADF0, bo sama lodówka jest tańsza o 1 603,03 zł.
-8. **Praktyka:** w koszyku wpisz `RKPROGAGD1026` i sprawdź **−3 000** (baza 19 533,25). Kod jest ważny do 31.10.2026 23:45.
+7. **Próg 16 000 już nie pęka po wyjęciu lodówki** — 8 poz. z łącznikiem to 16 543,26 zł, więc kod daje 3 000. To zmienia wniosek z poprzedniej wersji: Gorenje jest teraz realnie tańsze, nie tylko „pozornie”.
+8. **Praktyka:** w koszyku wpisz `RKPROGAGD1026` i sprawdź **−3 000** (baza 20 843,25). Kod jest ważny do 31.10.2026 23:45.
 
 ---
 

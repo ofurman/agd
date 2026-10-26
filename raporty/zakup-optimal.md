@@ -1,6 +1,44 @@
 # zakup-optimal – najlepszy koszyk AGD (2026-10-25; koszyk zweryfikowany 26.10.2026)
 
-## 0. Weryfikacja na żywo w koszyku euro (26.10.2026, Arc)
+## 0. Decyzja 26.10.2026 — płyta CIV634 + okap LFG716R (aktualne)
+
+**Wybór użytkownika:** Electrolux **CIV634** (2 099,00 zł) + Electrolux **LFG716R** (1 348,99 zł), oba euro.com.pl. Ceny z karty/Ceneo 26.10 (euro blokuje boty); **koszyk z nowymi pozycjami do potwierdzenia w koszyku** — nie był jeszcze testowany po zmianie.
+
+| Pozycja | Model | Cena listowa | Cashback |
+|---|---|---:|---:|
+| Piekarnik | Whirlpool WOI7A8FHT2SBA | 3 499,00 | 350 |
+| Lodówka | Samsung BRB80F30ADF0EO | 4 299,99 | 300 |
+| Płyta | **Electrolux CIV634** | **2 099,00** | – (Electrolux 400 za parę) |
+| Okap | **Electrolux LFG716R** | **1 348,99** | – (jw.) |
+| Mikrofalówka | Whirlpool WMD54MB | 1 849,99 | 200 |
+| Zmywarka | Whirlpool W7IHT58T | 2 299,99 | – |
+| Pralka | Samsung WW90CGC04DAE | 2 299,00 | 200 |
+| Suszarka | Samsung DV9MDG52A0AE | 2 929,99 | 200 |
+| Łącznik | Samsung SKK-DD | 217,30 | – |
+| **Razem** | | **20 843,25** | **1 650** |
+
+Cashback: Whirlpool 550 (piekarnik 350 + mikrofala 200), Samsung 700 (lodówka 300 + pralka 200 + suszarka 200), Electrolux 400 (para 3 447,99 ≥ 3 000). Razem **1 650**.
+
+| Wariant | Brutto | Cashback | Netto |
+|---|---:|---:|---:|
+| Baza listowa | 20 843,25 | −1 650 | 19 193,25 |
+| **Kod `RKPROGAGD1026` (−3 000)** | **17 843,25** | **−1 650** | **16 193,25** |
+| **Podział: A 7 poz. (15 326,95) + pralka 1 799 + łącznik Neonet 187,49** | **17 313,44** | **−1 650** | **15 663,44** |
+
+- **Kod nie łączy się z kodami produktowymi.** Baza z kodami pralki/suszarki to **19 902,26 zł** → netto **18 252,26**; kod daje **16 193,25**, czyli **2 059,01 zł mniej**.
+- **A (7 poz.):** piekarnik, lodówka, płyta, okap, mikrofala, zmywarka, suszarka = **18 326,95**; kod −3 000 → **15 326,95**; zapas progu **2 326,95**.
+- **⚠ Lodówka:** po podniesieniu bazy próg 16 000 nie wymusza już ADF0. Gorenje NRKI519D61WF (7 poz. euro + Gorenje + łącznik Neonet) = **14 860,41 zł** netto — **803,03 zł taniej**, ale 1 układ chłodzenia i drugi sklep. Decyzja do rewizji.
+- Terminy: kod progowy i kod suszarki **31.10.2026 23:45**; kod pralki 07.12.2026; Electrolux cashback do 20.12.2026.
+
+> **Decyzja płyta:** CIV634 — **7/8 MUST** (świadomie uchylony „osobny suwak”; jeden pasek Direct Access + wybór pola), H2H z LFG716R, 2 099 zł.
+>
+> **Decyzja okap:** LFG716R — wkład 54 cm, 580/700 m³/h, 67/54 dB, H2H, 1 348,99 zł; kompromis 30 cm głębokości vs 52 cm płyty.
+>
+> **Decyzja mikrofalówka:** WMD54MB pozostaje (1 849,99, cashback 200).
+>
+> **Poniższe sekcje 0-history–11 to snapshot 25.10 / starej pary WBS2560NE + LFP326FW.** Nie używać ich sum do nowego koszyka; aktualne liczby są powyżej i w `README.md`.
+
+## 0-history. Weryfikacja na żywo w koszyku euro (26.10.2026, Arc) — stara para
 
 Sprawdzone w przeglądarce Arc: karty produktów euro.com.pl **oraz realny koszyk** (9 pozycji dodanych do koszyka, kod `RKPROGAGD1026` wpisany i aktywowany). To nie jest już odczyt z agregatorów.
 
@@ -10,7 +48,7 @@ Sprawdzone w przeglądarce Arc: karty produktów euro.com.pl **oraz realny koszy
 | Samsung BRB80F30ADF0EO | **4 299,99** (było 3 971,69) | jutro |
 | Samsung BRB70F30BES0EO | 3 299,00 | jutro |
 | Whirlpool WBS2560NE | 1 348,00 | dziś/jutro |
-| Elica Elite 26 IX/A/60 | 638,99 | jutro |
+| Electrolux LFP326FW (biały) | 638,99 (promo; list 789) | jutro |
 | Whirlpool WMD54MB | 1 849,99 | jutro |
 | Whirlpool W7IHT58T | 2 299,99 | jutro |
 | Samsung WW90CGC04DAE | 1 799,00 | jutro |
@@ -23,7 +61,7 @@ Sprawdzone w przeglądarce Arc: karty produktów euro.com.pl **oraz realny koszy
 
 | Wariant | Brutto | Cashback | Netto |
 |---|---:|---:|---:|
-| Baza bez promocji | 19 533,25 | — | — |
+| Baza (okap 638,99 promo; pozostałe ceny listowe) | 19 533,25 | — | — |
 | Tylko „Piąty produkt za 1 zł” | 19 316,95 | — | — |
 | **Kod `RKPROGAGD1026` (−3 000)** | **16 533,25** | **−1 450** | **15 083,25** |
 
@@ -42,13 +80,15 @@ Cashback: Whirlpool 350 + 200 + 200 = 750; Samsung pralka 200 + suszarka 200 + l
 - **Rekomendacja po weryfikacji:** ADF0 w euro (jeden sklep, 2 obiegi, 298 l) = **15 083,25 netto**; Gorenje z Neonetu = **14 880,22** (najtaniej z energią D, ale 1 układ chłodzenia i drugi sklep); BES0 = 14 783,25, ale **E 229 kWh — łamie MUST**.
 - **Zestaw pralka+suszarka DG (sprawdzony 26.10, Arc):** Samsung WW90DG6U25LB + DV90DG6845LB = **5 499 zł z kodem** (list 6 299; osobno 6 498, więc zestaw oszczędza 999). W koszyku z `RKPROGAGD1026` kod produktowy znika → baza **20 604,25**, po rabacie **17 604,25**, cashback **1 550** (Whirlpool 750 + Samsung 200+300+300) → **16 054,25 netto**, czyli **+971 zł** vs para CGC04DAE+DV9MDG52A0AE. Samodzielnie: 5 499 + 217,30 link − 500 cashback = **5 216,30** vs **4 105,30** dla obecnej pary (+1 111). Zysk: czarny kolor, suszarka A 79 kWh/100 zamiast C 105, AI Control; zwrot z energii ~53 zł/rok → ~18 lat. **Nie opłaca się** przy priorytecie „bez dopłaty za AI”; szczegóły w `wymagania-AGD.md` §7.
 
+> **Cross-market (26.10.2026):** sprawdzone ME, MM, Avans, Morele, Neonet, x-kom i Sferis. Tylko euro ma 9/9 **wybranych** modeli; **komplet MUST nie jest pełny** — okap LFP326FW ma 410 m³/h tylko na maks. biegu i 57 dB LwA na min. Żaden koszyk zastępczy nie kwalifikuje się (P8 1 poziom, Gorenje bez łączenia pól, Hisense bez hydrolizy). **Optymalny podział:** 7 pozycji w euro z `RKPROGAGD1026` (17 016,95 → 14 016,95) + pralka osobno z kodem (1 799) + łącznik w Neonet (187,49) = **14 553,44 netto** (−529,81 vs jeden koszyk). Szczegóły: `koszyk-rynki-2026-10-26.md`.
+
 > Poniższe sekcje 1–11 to snapshot 25.10 (Amica, WMD7O4TX, ceny sprzed weryfikacji). Traktuj je jako historię; wiążące są liczby z tej sekcji.
 
-> **Aktualizacja 26.10.2026 — okap (snapshot 25.10, nieaktualne kwoty):** decyzja potwierdzona: **ELICA ELITE 26 IX/A/60** (inox/szary, 639 zł w Media Expert / RTV Euro / OleOle / ELECTRO; w euro 638,99 zł) zamiast Amica OTP6651BG (613 zł). Elica jest w ofercie euro, więc **wymiana 1:1**: koszyk 17 319,98 zł, rabat −3 000, netto po cashbackach **13 169,98 zł** (**+25,99 zł**; zapas nad progiem 16 000 zł = **1 320 zł**). Jeśli cena Elicy to 699 zł → netto 13 229,99 zł; jeśli wariant /VT 899,99 zł → 13 430,98 zł. **Biały** wariant Cata TFH 6630 WH (1 021 zł, poza euro) to +408 zł netto (13 551,99 zł), ale zapas progu spada do 681 zł. Szczegóły i rankingi: `okap-wybor.md`. Liczby w sekcjach 3, 6, 7 i 10 poniżej to snapshot 25.10 z Amicą.
+> **Historyczna decyzja (zastąpiona 26.10.2026 przez Electrolux LFG716R) — okap: ELECTROLUX LFP326FW (biały)** — 60 cm, **638,99 zł promo w euro** (list 789; Morele 665). Zastąpił Elicę Elite 26 IX/A/60 (inox, 638,99). Wymiana **1:1**, sumy bez zmian: koszyk 9 poz. **19 533,25 → 16 533,25** po kodzie, netto **15 083,25**; optimum z pralką osobno i łącznikiem w Neonet **14 553,44**. **Uwaga:** LFP326FW ma **410 m³/h tylko na maks. biegu** i **57 dB(A) LwA** na min. — 2 MUST niepełne. **Aktualny wybór: LFG716R (wkład 54 cm, H2H) — patrz §0 i `okap-wybor.md`.**
 
 > **Decyzja 26.10.2026 — mikrofalówka: Whirlpool WMD54MB (czarny).** 1 849,99 zł, 31 l, talerz 32,5 cm, wnęka 380×556×550 mm, głęb. 46,8 cm, cashback 200. **W koszyku zamienić WMD7O4TX → WMD54MB** (WMD7O4TX to inox, nie czarny). Po wymianie: grupa progowa **16 634,25 zł** (zapas **634,25**), rabat −3 000, netto **14 283,25 zł** wg V1 (−299 zł vs WMD7O4TX) / **13 290,27 zł** naiwnie (+152 zł). Mniejszy zapas progu — nie kodować pozycji z grupy. Odrzucone budżetowe: Gorenje BM251M2BG 949 / Candy CA38FL7N25WXB 799 (31,5 cm, ~650 zł taniej). Szczegóły: `mikrofalowka-wybor.md`. Tabela w §3 i sumy w §1/§7 to snapshot 25.10 (WMD7O4TX, Amica).
 
-## 1. Rekomendacja
+## 1. Rekomendacja (snapshot 25.10 — nieaktualne; patrz §0)
 
 **Kup całość w euro.com.pl / OleOle! jednym koszykiem z kodem `RKPROGAGD1026`.**
 
@@ -142,7 +182,7 @@ Te dwie można podmienić **bez utraty rabatu 3000 zł**, bo ich cena w koszyku 
 
 | Zmiana | Dopłata | Efekt | Netto całości |
 |---|---|---|---|
-| Okap Amica 613 → **Electrolux LFP326FB 659** (Sferis) | +46 zł | 410 m³/h, 265 mm głębokości przedziału, **48 dB na niskim biegu**, filtry aluminiowe; klapa zwrotna niepotwierdzona; sprzeczność 410 vs „300 m³/h” w slug — potwierdź etykietę UE | **13 189,99 zł** (z łącznikiem euro) |
+| *(historia; wybrany jest LFP326FW w euro)* Okap Amica 613 → **Electrolux LFP326FB 659** (Sferis) | +46 zł | 410 m³/h, 265 mm głębokości przedziału, **48 dB na niskim biegu**, filtry aluminiowe; klapa zwrotna niepotwierdzona; sprzeczność 410 vs „300 m³/h” w slug — potwierdź etykietę UE | **13 189,99 zł** (z łącznikiem euro) |
 | Łącznik euro 249 → **SKK-DD 187,49** (Neonet) | −61,51 zł | taniej; zgodność do potwierdzenia | **13 082,48 zł** |
 | Obie zmiany razem | −15,51 zł | ciut taniej + cichszy okap, ale bez twardego fi 150/klapy | **13 128,48 zł** |
 
@@ -196,9 +236,11 @@ Dodatkowo poza koszykiem, jeśli budżet pozwala:
 
 ## 8. Sklepy — werdykt
 
+> Tabela ze snapshotu 25.10 (przed weryfikacją koszyka). Aktualne kwoty i status MUST: §0.
+
 | Sklep | Czy da się kupić komplet MUST? | Najlepszy koszyk | Netto | Rola |
 |---|---|---|---|---|
-| **euro.com.pl / OleOle!** | **Tak** | 9 pozycji + `RKPROGAGD1026` | **13 144** | **Główny zakup** |
+| **euro.com.pl / OleOle!** | **9/9 modeli; okap LFP326FW — 2 MUST niepełne** | 9 pozycji + `RKPROGAGD1026` | **14 553,44** (aktualne) | **Główny zakup** |
 | Neonet | Tak, na alternatywach | 15 928,95 | 15 429 | Po cashbacku 500 (200+300); łącznik 187,49 |
 | Allegro | Tak, bez progu | 16 842 | 16 442 (Samsung) | Płyta/zmywarka/pralka pojedynczo; P8 to pułapka |
 | Ceneo (mix sklepów) | Tak | 17 072 | 15 922 | Podłoga cenowa; bez progu |
@@ -230,7 +272,7 @@ Dodatkowo poza koszykiem, jeśli budżet pozwala:
 
 1. **Kod 31.10** — po terminie koszyk wraca do ~15,4–16,9 tys. zł. To najbardziej kosztowny błąd.
 2. **Łącznik** — `SKK-DD` jest opisywany jako do paneli LED; dla WW**CG** (AI Control) Samsung wskazuje `1318804`. Cena nieznana; koszyk trzyma próg nawet bez łącznika, więc nie panikuj, ale nie kupuj złego.
-3. **Okap** — Amica 57–63 dB to prawdopodobnie moc akustyczna (LwA). To może odpowiadać ~48–53 dB w kuchni, ale **nie jest to potwierdzone**. Alternatywa: Electrolux LFP326FB 659 zł (48 dB niski bieg, fi 150, 410 m³/h), ale klapa zwrotna niepotwierdzona.
+3. **Okap** — wybrany **LFP326FW biały**: 410 m³/h **tylko na maks.**, **57 dB LwA** na min. (48 dB wg instrukcji, prawdopodobnie LpA), fi 150, 28,4 cm, bez timera. To 2 niepełne MUST; jeśli to nieakceptowalne, Elica (44–61 dB, 480–496 normal) lub Cata TFH 6630 WH. Cena 638,99 promo w euro; jeśli kod wyłączy promo → 789 zł (+150,01 netto). Klapa zwrotna do potwierdzenia/dokupienia.
 4. **Kuchenka mikrofalowa** — decyzja: **`WMD54MB`** (czarny, 32,5 cm / 31 l / 38,5 cm; 1 849,99 zł; cashback 200), w koszyku **zamiast `WMD7O4TX`** (inox). Wnęka wg instrukcji: **380×556×550 mm**, głęb. 46,8 cm. Zapas progu po wymianie spada do **634,25 zł** — sprawdzić, że rabat = 3 000 zł. Szczegóły: `mikrofalowka-wybor.md`.
 5. **Lodówka** — `BRB70F30BES0EO` nie ma cashbacku Samsunga; `BRB80F30ADS0EO` ma 300 zł, ale jest droższa i psuje próg.
 6. **Zmywarka AquaStop** — karta euro mówi o zabezpieczeniu węża, MM/Avans o AquaStop. To NICE, nie MUST; potwierdź, jeśli zależy Ci na pełnej ochronie.

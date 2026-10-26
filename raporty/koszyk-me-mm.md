@@ -1,5 +1,7 @@
 # Promocje koszykowe Media Expert i MediaMarkt vs 3 000 zł — raport (25.10.2026)
 
+> **Snapshot sprzed decyzji 26.10.2026 (WBS2560NE + LFP326FW).** Aktualny wybór: CIV634 + LFG716R; koszyk netto 16 193,25 / 15 663,44 — patrz `README.md`. Poniższe sumy są historyczne.
+
 ## 1. Metoda i status źródeł
 
 **Przeczytane regulaminy (PDF, nie snippety):**

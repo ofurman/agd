@@ -1,5 +1,7 @@
 # euro.com.pl / oleole.pl — promocje koszykowe vs kod 3000 zł (2026-10-25)
 
+> **Snapshot sprzed decyzji 26.10.2026 (WBS2560NE + LFP326FW).** Aktualny wybór: CIV634 + LFG716R; koszyk netto 16 193,25 / 15 663,44 — patrz `README.md`. Poniższe sumy są historyczne.
+
 Zakres: czy którakolwiek promocja koszykowa („5. produkt za 1 zł”, „drugi produkt −40%”, progi, „X za Y”) bije rabat **3 000 zł** z kodu `RKPROGAGD1026` i czy da się ją z nim połączyć oraz z cashbackami producentów.
 Koszyk wzorcowy: 9 pozycji, **17 293,99 zł** brutto (ceny z 25.10.2026, statusy jak w `euro.com.pl.md`), cashbacki **750 zł Whirlpool + 400 zł Samsung = 1 150 zł**.
 

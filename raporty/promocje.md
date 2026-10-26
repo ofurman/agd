@@ -1,5 +1,7 @@
 # promocje (cashbacki, kody, raty) – raport (2026-10-25)
 
+> **Snapshot sprzed decyzji 26.10.2026.** Aktualny wybór: płyta Electrolux CIV634 (2 099, euro) + okap Electrolux LFG716R (1 348,99, euro); para 3 447,99 → cashback Electrolux 400. Koszyk netto 16 193,25 / 15 663,44 — patrz `README.md`.
+
 ## Jak zebrano dane
 
 **Sprawdzone na żywo (25.10.2026, 21:35–22:10):**

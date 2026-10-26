@@ -1,5 +1,7 @@
 # mediaexpert.pl – raport (25.10.2026)
 
+> **Snapshot sprzed decyzji 26.10.2026.** Aktualny wybór: płyta Electrolux CIV634 (2 099, euro) + okap Electrolux LFG716R (1 348,99, euro); koszyk netto 16 193,25 / 15 663,44 — patrz `README.md`. Modele WBS2560NE/LFP326FW w tym raporcie są historyczne.
+
 **Metoda i źródła.** mediaexpert.pl zwraca 403 (Cloudflare) dla curl i WebFetch. Nie obchodziłem tego zabezpieczenia i nie używałem przeglądarki. Ceny ofert Media Expert (dalej ME) pochodzą z tych źródeł:
 - **EK** = e-katalog.pl, lista sklepów na stronie produktu, pozycja „Mediaexpert.pl”, stan z 25.10.2026.
 - **CEN** = ceneo.pl, oferty z `data-ShopUrl="mediaexpert.pl"`. Pobrałem je 25.10.2026, zanim ceneo zaczęło blokować boty.
@@ -84,7 +86,8 @@ Wszystkie modele poniżej mają 60 cm i wylot fi 150. Na podstawie dostępnych d
 
 | Model | Typ | Cena reg. | Cena promo / z kodem | Kod + ważność | MUST ok? | Co lepsze/gorsze | Link |
 |---|---|---|---|---|---|---|---|
-| **Elica Elite 26 IX/A/60** | odpowiednik (najtańszy sensowny) | 639 zł (EK) | ? | – | teleskop ✓, fi 150 ✓, 480 m³/h (boost 580) ✓, 44–65 dB (głośność na co dzień ?), filtry aluminiowe kasetowe ✓, klapa ?, gł. 28 cm ✓ (szafka ?) | Timer (wybieg) ✓, klasa C. Silnik nie BLDC. | https://e-katalog.pl/ELICA-ELITE-26-IX-A-60.htm |
+| **Electrolux LFP326FW (biały)** | historyczny (zastąpiony przez LFG716R) | **789 zł** | 789 zł (brak promocji w ME) | – | teleskop ✓, fi 150 ✓, 410 m³/h **maks.** ✗/? (bieg codzienny niżej), **57 dB LwA min. / 69 maks.** ✗ (48 dB wg instrukcji, prawdopodobnie LpA), filtry alu ✓, klapa ?, gł. 28,4 cm ✓ | Biały, 3 biegi, 100 W, klasa C, bez timera. W euro 638,99 promo; ME drożej o 150 zł | [ME](https://www.mediaexpert.pl/agd-do-zabudowy/okapy-do-zabudowy/okap-electrolux-lfp326fw-bialy-410m3-h-69db-klasa-c) |
+| **Elica Elite 26 IX/A/60** | alternatywa (najcichsza) | 639 zł (EK) | ? | – | teleskop ✓, fi 150 ✓, 480 m³/h (boost 580) ✓, 44–65 dB (głośność na co dzień ?), filtry aluminiowe kasetowe ✓, klapa ?, gł. 28 cm ✓ (szafka ?) | Timer (wybieg) ✓, klasa C. Silnik nie BLDC. | https://e-katalog.pl/ELICA-ELITE-26-IX-A-60.htm |
 | Gorenje TH64E4BG | odpowiednik (✗) | 496 zł (EK) | ? | – | 450 m³/h ✓, ale **max 71 dB** (na co dzień ?) | Czarny | https://e-katalog.pl/GORENJE-TH64E4BG.htm |
 | **Electrolux LFP616X** | alternatywa+ | 862 zł (EK) | ? | – | 600 m³/h ✓, max 68 dB, filtry aluminiowe ✓, klapa ? | +223 zł: większa wydajność | https://e-katalog.pl/ELECTROLUX-LFP616X.htm |
 | **Electrolux LFP626AK** (czarny, Series 500) | alternatywa+ | 1199 zł (EK; rynek od 996) | ? | – | 600 m³/h ✓, **46–68 dB**, filtry aluminiowe ✓, LED, klasa A | +560 zł: czarny (pasuje do AGD), klasa A, Hob2Hood z płytą Electrolux | https://e-katalog.pl/ELECTROLUX-LFP626AK.htm |

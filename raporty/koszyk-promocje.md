@@ -1,5 +1,7 @@
 # Promocje koszykowe — porównanie i wybór (2026-10-25)
 
+> **Snapshot sprzed decyzji 26.10.2026 (WBS2560NE + LFP326FW).** Aktualny wybór: CIV634 + LFG716R; koszyk netto 16 193,25 / 15 663,44 — patrz `README.md`. Poniższe sumy są historyczne.
+
 ## Werdykt
 
 **Najkorzystniejszy pozostaje kod `RKPROGAGD1026` w euro.com.pl: −3 000 zł, netto 13 143,99 zł.**

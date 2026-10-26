@@ -1,5 +1,7 @@
 # Skan promocji koszykowych AGD — 25.10.2026
 
+> **Snapshot sprzed decyzji 26.10.2026 (WBS2560NE + LFP326FW).** Aktualny wybór: CIV634 + LFG716R; koszyk netto 16 193,25 / 15 663,44 — patrz `README.md`. Poniższe sumy są historyczne.
+
 **KOREKTA (25.10, 23:55):** Whirlpool Days „−40%” **nie obejmuje** WOI7A8FHT2SBA, W7I HT58 T ani WMD7O4TX — na naszym koszyku rabat = **0 zł** (kwalifikuje się tylko płyta, brak drugiego produktu). ME `K-5227` ma listę 40 produktów Whirlpoola bez naszych modeli → **0 zł**. Kwoty −920 / −479,60 w tabeli są teoretyczne; nie dotyczą naszego koszyka. Aktualny ranking: `koszyk-promocje.md`.
 
 Zakres: „drugi produkt −40%”, „drugi −50%”, „3. −55%”, „4. −80%”, „5. produkt za 1 zł / darmo”, „płyta za 1 zł”, „500 za 2000”.

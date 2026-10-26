@@ -1,5 +1,7 @@
 # morele.net – raport (2026-10-25)
 
+> **Snapshot sprzed decyzji 26.10.2026.** Aktualny wybór: płyta Electrolux CIV634 (2 099, euro) + okap Electrolux LFG716R (1 348,99, euro); koszyk netto 16 193,25 / 15 663,44 — patrz `README.md`. Modele WBS2560NE/LFP326FW w tym raporcie są historyczne.
+
 ## Jak zebrano ceny
 
 - **morele.net nie blokuje bota.** Wszystkie strony (kategoria, karta produktu) zwróciły HTTP 200 z pełną treścią SSR. Nie było captchy, DataDome ani 403.
@@ -100,7 +102,8 @@ MUST: teleskop 60 cm · mieści się w szafce 35 cm · wylot fi 150 · 400–600
 
 | Model | Typ | Cena | Sprzedawca | Dostawa | Dostępność | MUST ok? | Lepsze/gorsze | Link |
 |---|---|---|---|---|---|---|---|---|
-| **Electrolux LFP326FB** | najlepszy kompromis | **619,00 zł** `[live]` | Morele.net | 0–25,99 zł | InStock | teleskop ✓ 59,8 cm ✓, gł. **28,4 cm** (szafka 35 → ✓), **410 m³/h** ✓ (max), filtr **aluminiowy** ✓ (mycie w zmywarce — do potwierdzenia), **57 dB** (moc akustyczna — granica) · **fi 150 niepotwierdzone** · klapa zwrotna niepotwierdzona | Czarny (pasuje do czarnego AGD), 3 prędkości, klasa C. Najtańszy, który w ogóle wchodzi w 400–600 m³/h i w 35 cm szafki | [morele.net](https://www.morele.net/okap-electrolux-lfp326fb-10613455/) |
+| **Electrolux LFP326FW (biały)** | historyczny (zastąpiony przez LFG716R) | **665,00 zł** `[live]` | Morele.net | 0–25,99 zł | InStock | teleskop ✓ 59,8 cm ✓, gł. **28,4 cm** (szafka 35 → ✓), **410 m³/h maks.** ✓/? (bieg codzienny niżej), filtr **aluminiowy** ✓ (mycie w zmywarce — do potwierdzenia), **57 dB LwA** (48 dB wg instrukcji, prawdopodobnie LpA), **fi 150 ✓** (ME) · klapa zwrotna niepotwierdzona | Biały, 3 prędkości, klasa C, bez timera. W euro 638,99 promo — taniej o 26,01 zł | [Morele FW](https://www.morele.net/okap-electrolux-lfp326fw-10588020/) |
+| **Electrolux LFP326FB** | najlepszy kompromis (czarny) | **619,00 zł** `[live]` | Morele.net | 0–25,99 zł | InStock | teleskop ✓ 59,8 cm ✓, gł. **28,4 cm** (szafka 35 → ✓), **410 m³/h** ✓ (max), filtr **aluminiowy** ✓ (mycie w zmywarce — do potwierdzenia), **57 dB** (moc akustyczna — granica) · **fi 150 niepotwierdzone** · klapa zwrotna niepotwierdzona | Czarny (pasuje do czarnego AGD), 3 prędkości, klasa C. Najtańszy, który w ogóle wchodzi w 400–600 m³/h i w 35 cm szafki | [morele.net](https://www.morele.net/okap-electrolux-lfp326fb-10613455/) |
 | **Electrolux LFP616X** | alternatywa (mocniejsza) | **871,81 zł** `[live]` | Morele.net | 0–25,99 zł | InStock | teleskop ✓ 59,8 cm ✓, gł. **30 cm** ✓, **600 m³/h** ✓, filtr aluminiowy ✓, klasa **A**, 3 prędkości · **68 dB** ✗ (najprawdopodobniej moc akustyczna = ok. 56–58 dB w kuchni) · fi 150 niepotwierdzone | Stal (nie czarny). Wydajność 600 m³/h jak w wymaganiach, ale głośniejszy na papierze niż LFP326FB | [morele.net](https://www.morele.net/okap-electrolux-lfp616x-11714037/) |
 | Gorenje BHP623E8X | alternatywa | 590,62 zł `[live]` | Morele.net | 0–25,99 zł | InStock | teleskop ✓ 60 cm ✓, gł. 30,5 cm ✓, **578 m³/h** ✓, filtr aluminiowy ✓, 3 prędkości · **72 dB** ✗ | Najtańszy z wydajnością ~580 m³/h, ale najgłośniejszy w zestawieniu. Srebrny | [morele.net](https://www.morele.net/okap-gorenje-bhp623e8x-6039063/) |
 | Bosch DFM064W55 | alternatywa | 998,00 zł `[live]` | Morele.net | 0–25,99 zł | InStock | teleskop ✓ 59,8 cm ✓, gł. **29 cm** ✓, 3 prędkości · **68 dB** · **wydajność m³/h nie podana** | BSH — jakość i serwis, ale karta nie podaje wydajności ani fi wylotu; nie da się potwierdzić MUST | [morele.net](https://www.morele.net/okap-bosch-dfm064w55-600336544/) |
