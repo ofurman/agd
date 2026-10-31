@@ -1,6 +1,41 @@
-# zakup-optimal – najlepszy koszyk AGD (2026-10-25; koszyk zweryfikowany 26.10.2026)
+# zakup-optimal – najlepszy koszyk AGD (2026-10-25; koszyk zweryfikowany 31.10.2026)
 
-## 0. Decyzja 26.10.2026 — płyta CIV634 + okap LFG716R (aktualne)
+## 0-live. Weryfikacja 31.10.2026 — CIS62450 + LFG716R (aktualne)
+
+**Wybór użytkownika 31.10.2026:** płyta **Electrolux 700 SenseBoil CIS62450** (2 169,99 zł) zamiast CIV634; okap **LFG716R** (1 279,00 zł). Para **3 448,99 zł**; H2H; cashback Electrolux **300 zł** po kodzie (para na fakturze 2 875,04 zł; 400 tylko bez kodu).
+
+| Pozycja | Model | Cena listowa | Cashback |
+|---|---|---:|---:|
+| Piekarnik | Whirlpool WOI7A8FHT2SBA | 3 199,00 | 350 |
+| Lodówka | Samsung BRB80F30ADF0EO | 4 299,99 | 300 |
+| Płyta | **Electrolux CIS62450** | **2 169,99** | – (Electrolux para) |
+| Okap | **Electrolux LFG716R** | **1 279,00** | – (jw.) |
+| Mikrofalówka | Whirlpool WMD54MB | 1 849,99 | 200 |
+| Zmywarka | Whirlpool W7IHT58T | 2 299,99 | – |
+| Pralka | Samsung WW90CGC04DAE | 2 299,00 (1 799 z kodem) | 200 |
+| Suszarka | Samsung DV9MDG52A0AE | 2 929,99 (2 489 z kodem) | 200 |
+| Łącznik | Samsung SKK-5EW | 229,00 | – |
+| **Razem** | | **20 555,95** | **1 550** |
+
+**Podział (rekomendacja):**
+
+| Zamówienie | Zawartość | Wartość listowa | Rabat | Do zapłaty |
+|---|---|---:|---:|---:|
+| **A. euro — 7 poz.** | piekarnik, lodówka, płyta, okap, mikrofala, zmywarka, suszarka | **18 027,95** | −3 000,00 | **15 027,95** |
+| **B. euro — pralka + łącznik** | WW90CGC04DAE z kodem `RBF2310071226C` + SKK-5EW | 2 528,00 | −500,00 | **2 028,00** |
+| **Razem brutto** | | | | **17 055,95** |
+| Cashbacki (Whirlpool 550 + Samsung 700 + Electrolux 300) | | | | −1 550,00 |
+| **Netto** | | | | **15 505,95** |
+
+- **A: odznaczyć checkbox „EURO WJECHAŁO” (`REW1410311026C2`).** Jeśli suszarka zostanie z kodem 2 489, jej cena nie liczy się do progu; A = 15 686,96 i całość = **16 164,96** (strata 659,01). „Aktywne kody rabatowe” muszą pokazać **−3 000**, „Do zapłaty” **15 027,95**.
+- **B: pralka osobno.** W jednym koszyku z A sklep nie pozwala połączyć `RBF` z `RKPRO` i przywraca `REW`, schodząc do −1 900. Osobne zamówienie jest konieczne; oszczędność 500 zł.
+- **1 koszyk (bez podziału):** 20 555,95 − 3 000 − 1 550 = **16 005,95**; split jest tańszy o **500 zł**.
+- **Gorenje:** A 8 poz. z pralką i łącznikiem = 16 255,96; −3 000 + Gorenje 2 696,96; cashback 1 250 → **14 702,92** (1 układ chłodzenia, drugi sklep; 803,03 zł taniej).
+- **Termin:** kod progowy **31.10.2026 23:45**; kod pralki do 07.12.2026; Electrolux do 20.12.2026.
+
+**Mechanika kodów (live 31.10):** kod progowy nie zastępuje automatycznego `REW`; przy suszarce z kodem próg liczy tylko pozostałe pozycje. Po odznaczeniu REW kod daje −3 000. `RBF` (pralka) nie współpracuje z `RKPRO` w jednym koszyku — pralka musi być osobno. Szczegóły: `README.md` i `raporty/koszyk-rynki-2026-10-26.md`.
+
+## 0. Decyzja 26.10.2026 — płyta CIV634 + okap LFG716R (SNAPSHOT — nieaktualne; patrz §0-live)
 
 **Wybór użytkownika:** Electrolux **CIV634** (2 099,00 zł) + Electrolux **LFG716R** (1 348,99 zł), oba euro.com.pl. Ceny z karty/Ceneo 26.10 (euro blokuje boty); **koszyk z nowymi pozycjami do potwierdzenia w koszyku** — nie był jeszcze testowany po zmianie.
 

@@ -1,6 +1,6 @@
 # mediaexpert.pl – raport (25.10.2026)
 
-> **Snapshot sprzed decyzji 26.10.2026.** Aktualny wybór: płyta Electrolux CIV634 (2 099, euro) + okap Electrolux LFG716R (1 348,99, euro); koszyk netto 16 193,25 / 15 663,44 — patrz `README.md`. Modele WBS2560NE/LFP326FW w tym raporcie są historyczne.
+> **Snapshot sprzed decyzji 26.10.2026.** Aktualny wybór (31.10): płyta **CIS62450** (2 169,99, euro) + okap **LFG716R** (1 279,00, euro); netto **16 005,95** (1 koszyk) / **15 505,95** (podział) — patrz `README.md`. Modele WBS2560NE/LFP326FW w tym raporcie są historyczne.
 
 **Metoda i źródła.** mediaexpert.pl zwraca 403 (Cloudflare) dla curl i WebFetch. Nie obchodziłem tego zabezpieczenia i nie używałem przeglądarki. Ceny ofert Media Expert (dalej ME) pochodzą z tych źródeł:
 - **EK** = e-katalog.pl, lista sklepów na stronie produktu, pozycja „Mediaexpert.pl”, stan z 25.10.2026.

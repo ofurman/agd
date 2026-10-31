@@ -1,14 +1,14 @@
 # Okap — wybór (26.10.2026): Electrolux LFG716R (wkład 54 cm, czarny)
 
-**Decyzja użytkownika: Electrolux LFG716R** — wkład do zabudowy, 54 cm, czarny, **1 348,99 zł w euro.com.pl** (nr kat. 1216538; PNC **942 022 578**). Zastąpił wybór teleskopu Electrolux LFP326FW. Para z płytą **Electrolux CIV634** ma **Hob2Hood** (płyta nadaje IR, okap odbiera).
+**Decyzja użytkownika: Electrolux LFG716R** — wkład do zabudowy, 54 cm, czarny, **1 279,00 zł w euro.com.pl** (nr kat. 1216538; PNC **942 022 578**). Zastąpił wybór teleskopu Electrolux LFP326FW. Para z płytą **Electrolux CIS62450** ma **Hob2Hood** (płyta nadaje IR, okap odbiera).
 
 ## 1. Dlaczego LFG716R
 
 - **Typ: wkład (wsad)** — cały korpus w szafce; od spodu widać tylko panel sterowania i powierzchnię ssącą. Dokładnie wymaganie użytkownika (nie teleskop, nie podszafkowy).
-- **H2H z CIV634** — ta sama marka, bez parowania, bez Wi‑Fi i modułów. Płyta steruje wentylatorem i światłem; tryby H1–H6.
+- **H2H z CIS62450** — ta sama marka, bez parowania, bez Wi‑Fi i modułów. Płyta steruje wentylatorem i światłem; tryby H1–H6.
 - **Mieści się w szafce 60 × 35 cm** — korpus 530 × 287 × 331 mm; widoczny spód 540 × 300 mm.
 - **Wydajność i cisza** — 580 m³/h normal / 700 boost; 67 dB max / 54 dB min; klasa A.
-- **Cena** — 1 348,99 zł; para z CIV634 (3 447,99) łapie cashback Electrolux **400 zł**.
+- **Cena** — 1 279,00 zł; para z CIS62450 (3 448,99) łapie cashback Electrolux **300 zł** po kodzie (para na fakturze 2 875,04; 400 tylko bez kodu).
 
 ## 2. Dane techniczne
 
@@ -29,7 +29,7 @@
 | Min. odległość od płyty | 50 cm (elektryczna) |
 | H2H | tak |
 | Kolor | czarny (wersje W/X — biała/inox) |
-| Cena euro | **1 348,99 zł** |
+| Cena euro | **1 279,00 zł** |
 
 ## 3. MUST — status
 
@@ -43,7 +43,7 @@
 | ≤55 dB na biegu codziennym | **✓** | 54 dB min (LwA) |
 | Filtry metalowe / zmywarka | **✓** | instrukcja potwierdza zmywarkę |
 | Klapa zwrotna | **?** | potwierdzić w zestawie; inaczej dokupić |
-| Hob2Hood z CIV634 | **✓** | para Electrolux |
+| Hob2Hood z CIS62450 | **✓** | para Electrolux |
 
 **Kompromis, który trzeba znać:** okap ma **30 cm głębokości**, a płyta **52 cm**. Przy szafce 35 cm przednie pola płyty (ok. 20 cm) są poza obrysem ssącym — odciąg przy przedniej krawędzi będzie słabszy. To cena wyboru wkładu zamiast teleskopu; użytkownik zaakceptował.
 
@@ -51,7 +51,7 @@
 
 1. **Szafka:** 60 cm szer., 35 cm gł., wewnętrzna wysokość ≥ **331 mm**. Sprawdzić, czy nie ma szuflady i czy da się wyciąć dno.
 2. **Wycięcie:** wg szablonu producenta w dnie szafki; korpus wsuwany od dołu, mocowany do boków.
-3. **Odległość:** min. **50 cm** od powierzchni płyty do dolnej krawędzi okapu (rysunek instalacyjny CIV634: min. 500 mm). Instrukcja okapu podaje ogólnie 65 cm, ale dopuszcza odstępstwo zgodne z instrukcją płyty.
+3. **Odległość:** min. **50 cm** od powierzchni płyty do dolnej krawędzi okapu (rysunek instalacyjny CIS62450: min. 500 mm). Instrukcja okapu podaje ogólnie 65 cm, ale dopuszcza odstępstwo zgodne z instrukcją płyty.
 4. **Kanał:** Ø150, krótka trasa, mało kolan; wyprowadzenie na zewnątrz.
 5. **Recyrkulacja:** możliwa tylko z filtrem węglowym (model potwierdzić po PNC okapu 942 022 578); zapewnić nawrót powietrza.
 6. **Zasilanie:** 220–240 V, 250 W; gniazdko dostępne po montażu.
@@ -65,24 +65,24 @@
 
 ## 6. Wpływ na koszyk
 
-| | Stara para (WBS2560NE + LFP326FW) | Nowa para (CIV634 + LFG716R) |
+| | Stara para (WBS2560NE + LFP326FW) | Nowa para (CIS62450 + LFG716R) |
 |---|---:|---:|
-| Cena listowa | 2 137,99 | **3 447,99** |
-| Cashback producenta | 200 (Whirlpool płyta) | **400 (Electrolux para)** |
-| Baza koszyka 9 poz. | 19 533,25 | **20 843,25** |
-| Netto 1 koszyk | 15 083,25 | **16 193,25** |
-| Netto podział (pralka osobno + łącznik Neonet) | 14 553,44 | **15 663,44** |
+| Cena listowa | 2 137,99 | **3 448,99** |
+| Cashback producenta | 200 (Whirlpool płyta) | **300 (Electrolux para po kodzie)** |
+| Baza koszyka 9 poz. | 19 533,25 | **20 555,95** |
+| Netto 1 koszyk | 15 083,25 | **16 005,95** |
+| Netto podział (pralka i łącznik osobno) | 14 553,44 | **15 505,95** |
 
-- Wzrost bazy **+1 310 zł**, cashback **+200 zł**, netto **+1 110 zł**.
-- Próg 16 000 zł trzyma się z zapasem **2 326,95 zł** w koszyku A (7 poz. bez pralki i łącznika).
-- Kod `RKPROGAGD1026` wyłącza kody produktowe; ceny płyty i okapu w koszyku są listowe.
-- **Uwaga:** po podniesieniu bazy próg nie wymusza już lodówki ADF0 — Gorenje wariant 7 poz. + Neonet wychodzi 14 860,41 zł. Szczegóły: `README.md`.
+- Wzrost bazy **+1 311,00 zł**, cashback **+100 zł**, netto **+1 211,00 zł**.
+- Próg 16 000 zł trzyma się z zapasem **2 027,95 zł** w koszyku A (7 poz. bez pralki i łącznika).
+- Kod `RKPROGAGD1026` rozkłada rabat proporcjonalnie; ceny płyty i okapu w koszyku są listowe, ale para na fakturze to 2 875,04 zł. Pamiętaj o odznaczeniu `REW` suszarki w A.
+- **Uwaga:** próg nie wymusza już lodówki ADF0 — Gorenje wariant 8 poz. + łącznik euro wychodzi **14 702,92 zł** netto; z łącznikiem Neonet 187,49 zł (gdy wróci) **14 661,41 zł**. Szczegóły: `README.md`.
 
 ## 7. Alternatywy
 
 | Model | Typ | Szer. | Wydajność | dB | Cena | Uwaga |
 |---|---|---:|---|---:|---:|---|
-| **Electrolux LFG716R** | wkład | 54 | 580/700 | 67/54 | **1 348,99** | **wybór; H2H** |
+| **Electrolux LFG716R** | wkład | 54 | 580/700 | 67/54 | **1 279,00** | **wybór; H2H** |
 | AEG DGE5661HM | wkład | 54 | 580/700 | 67 | ~1 649 | H2H; inox; ta sama platforma |
 | Electrolux LFG719R | wkład | 80 | 580/700 | 67/54 | ~2 099 | tylko szafka 80 cm |
 | Electrolux LFP326FW | teleskop | 60 | 410 max | 57/69 | 639 | odrzucony: 410 tylko max, 57 dB LwA |
@@ -90,8 +90,8 @@
 
 ## 8. Do potwierdzenia przed zakupem
 
-- [ ] Cena euro **1 348,99** i dostępność (nr kat. 1216538, sprzedawca euro.com.pl).
-- [ ] Para z CIV634 = **3 447,99** → cashback Electrolux **400 zł**; zgłoszenie do 20.12.2026.
+- [ ] Cena euro **1 279,00** i dostępność (nr kat. 1216538, sprzedawca euro.com.pl).
+- [ ] Para z CIS62450 = **3 448,99** → po kodzie **2 875,04** → cashback Electrolux **300 zł** (400 tylko bez kodu); zgłoszenie do 20.12.2026.
 - [ ] Klapa zwrotna Ø150 w zestawie? Jeśli nie — dokupić.
 - [ ] Filtr węglowy, jeśli recyrkulacja (model po PNC 942 022 578).
 - [ ] Szafka: 60 × 35 cm, wys. wewn. ≥331 mm, dno do wycięcia; przejście Ø150.
@@ -100,7 +100,7 @@
 
 ## 9. Źródła
 
-- Euro.com.pl — [LFG716R](https://www.euro.com.pl/okapy/electrolux-lfg716r.bhtml) (1 348,99 zł, nr kat. 1216538).
+- Euro.com.pl — [LFG716R](https://www.euro.com.pl/okapy/electrolux-lfg716r.bhtml) (1 279,00 zł, nr kat. 1216538).
 - Electrolux — instrukcja LFG716 (H2H rozdz. 5.2, zdalne sterowanie 5.5, filtry/zmywarka); dane PNC 942 022 578.
-- Electrolux — [CIV634, instrukcja i rysunek 500 mm](https://www.electrolux.pl/kitchen/cooking/hobs/induction-hob/civ634).
+- Electrolux — [CIS62450, instrukcja i rysunek 500 mm](https://www.euro.com.pl/product-user-manual/142848519425/867384318_UserManual_02c26c63-6480-4d94-a187-91c10e3f103b%20(1).pdf); [CIV634 — poprzednia płyta](https://www.electrolux.pl/kitchen/cooking/hobs/induction-hob/civ634).
 - Electrolux — [Hob2Hood: kompatybilność i tryby](https://support.electrolux.pl/support-articles/article/hob2hood-dzialanie-i-kompatybilnosc).

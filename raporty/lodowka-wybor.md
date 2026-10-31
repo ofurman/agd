@@ -1,5 +1,7 @@
 # Lodówka do zabudowy — analiza po korekcie MUST (26.10.2026, runda 2)
 
+> **Aktualizacja 31.10.2026 (płyta CIS62450):** ADF0 w euro — 1 koszyk **16 005,95 zł** netto, podział **15 505,95 zł**; Gorenje (8 poz. euro + Gorenje + łącznik) **14 702,92 zł**; różnica **803,03 zł**. Poniższe sumy z 26.10 są historyczne; wiążące: `README.md` i `zakup-optimal.md` §0-live.
+
 ## MUST 26.10.2026
 
 1. **Do zabudowy, duża lodówka** — jak najwięcej miejsca w dostępnej wnęce. Preferowana wysokość ok. 193,5 cm, ale dopasować do zmierzonej wnęki: **ok. 1938 × 560 × 560 mm**, szer. 54 cm, gł. 55 cm (do potwierdzenia). **Bez preferencji co do zawiasów** — suwakowe i nożycowe są OK.

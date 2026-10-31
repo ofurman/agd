@@ -39,8 +39,8 @@ Legenda: **[MUST]** obowiązkowe, **[NICE]** mile widziane, *(?)* do weryfikacji
 - **Korekta MUST (26.10.2026):** 2 obiegi → NICE; 193,5 cm i 298 l → „duża lodówka” dopasowana do wnęki; dodano energię D+/≤200 kWh oraz szer./gł.; zawiasy poza MUST. Szczegóły: `raporty/lodowka-wybor.md`.
 - **Wybór po weryfikacji cen (26.10.2026; euro sprawdzone na żywo w Arc, koszyk przetestowany):**
   - **Baseline: Samsung BRB80F30ADF0EO** — **4 299,99 zł** w euro, po cashbacku **3 999,99 zł** (298 l, D 183, 35 dB, 2 obiegi, No Frost; nożycowe). **Cena wzrosła** z 3 971,69 (Morele, 25.10).
-  - **Koszyk euro (9 poz.) z ADF0, po wyborze CIV634 + LFG716R:** baza **20 843,25 zł** → kod `RKPROGAGD1026` **−3 000** → **17 843,25 zł**; cashbacki **1 650 zł** (Whirlpool 550 + Samsung 700 + Electrolux 400) → **16 193,25 zł netto**. **Podział: 15 663,44 zł** — pralka osobno (1 799) + łącznik Neonet (187,49); patrz `README.md` i `raporty/zakup-optimal.md` §0. **Gorenje** w wariancie 7 poz. euro + Neonet: **14 860,41 zł** (1 układ, drugi sklep) — decyzja o lodówce do rewizji.
-  - **Najlepsza wartość po zmianie bazy: Gorenje NRKI519D61WF** — **2 696,96 zł** (Neonet, kod OKAZJE114 do 31.10; 284 l, D 185, 35 dB, 1 układ). Wariant 7 poz. euro + Gorenje + łącznik Neonet: **14 860,41 zł netto**.
+  - **Koszyk euro (9 poz.) z ADF0, po wyborze CIS62450 + LFG716R (31.10):** baza **20 555,95 zł** → kod `RKPROGAGD1026` **−3 000** → **17 555,95 zł**; cashbacki **1 550 zł** (Whirlpool 550 + Samsung 700 + Electrolux 300) → **16 005,95 zł netto**. **Podział: 15 505,95 zł** — pralka osobno (1 799) + łącznik euro (229); patrz `README.md` i `raporty/zakup-optimal.md` §0-live. **Gorenje** w wariancie 8 poz. euro + Neonet: **14 702,92 zł** (1 układ, drugi sklep) — decyzja o lodówce do rewizji.
+  - **Najlepsza wartość po zmianie bazy: Gorenje NRKI519D61WF** — **2 696,96 zł** (Neonet, kod OKAZJE114 do 31.10; 284 l, D 185, 35 dB, 1 układ). Wariant 8 poz. euro + Gorenje + łącznik: **14 702,92 zł netto**.
   - **Najtaniej, ale E:** Samsung BRB70F30BES0EO 3 299 zł → koszyk **przeliczyć** (poprzednie 14 783,25 było dla starej płyty/okapu); **łamie MUST energii**.
   - **Cisza/pojemność: Haier HBW7519DT** — **3 599,98 zł** (300 l, D 190, 32 dB; 1 agregat, 2 termostaty; poza euro) — przeliczyć.
   - **Energia: Hisense RB5B280SSWC** — 3 999,98 zł (284 l, C 148, 34 dB, 2 obiegi).
@@ -59,17 +59,17 @@ Legenda: **[MUST]** obowiązkowe, **[NICE]** mile widziane, *(?)* do weryfikacji
 - **[MUST]** Strefa łączona / elastyczna (FlexiCook – łączenie 2 pól w jedną strefę)
 - **[MUST]** 4 pola grzewcze
 - **[MUST]** Funkcja Booster (do ok. 3 kW)
-- **[MUST]** Sterowanie dotykowe z osobnym suwakiem dla każdej strefy (Direct Access) — **CIV634: NIESPEŁNIONE, świadomie uchylone 26.10.2026**
+- **[MUST]** Sterowanie dotykowe z osobnym suwakiem dla każdej strefy (Direct Access) — **CIS62450: NIESPEŁNIONE, świadomie uchylone 31.10.2026**
 - **[MUST]** Czarna powierzchnia **błyszcząca (nie matowa)**, czyli standardowe szkło ceramiczne bez powłoki MattProtect
 - **[MUST]** Blokada przed dziećmi, wskaźnik ciepła resztkowego
 - **[NICE]** Programy automatyczne (6. Zmysł: rozpuszczanie, podtrzymywanie ciepła, gotowanie na wolnym ogniu, zagotowanie)
 - Parametry wzorca: moc łączna 7,2 kW
 
-**Wybór użytkownika (26.10.2026): Electrolux CIV634 (600 Slim-fit, 59 cm, PNC 949 596 825)** — **2 099,00 zł** w euro.com.pl.
-- 59 × 52 × 4,4 cm · 4 pola · **Bridge** (1 strefa, lewa) · Booster 3,2 kW · 7,35 kW · czarne błyszczące szkło bezramkowe · **Direct Access: jeden pasek regulacji + wybór pola** (instrukcja, rozdz. 3.2–3.3) · blokada / blokada uruchomienia · OptiHeat 3 stopnie · timer, pauza, AutoOff · **Hob2Hood**.
-- **Status MUST: 7/8.** Brak osobnego suwaka na strefę — użytkownik akceptuje jeden pasek. Reszta: 59 cm ✓, Bridge ✓, 4 pola ✓, Booster 3,2 kW ✓, szkło błyszczące ✓, blokada ✓, ciepło resztkowe ✓.
-- **Cena/cashback:** 2 099 solo → 300 zł zwrotu (próg 2 000–2 999,99); **para z LFG716R = 3 447,99 → 400 zł**. Netto solo **1 799 zł**.
-- **Koszyk:** para CIV634 + LFG716R to **3 447,99 zł** (ceny listowe; kod `RKPROGAGD1026` wyłącza kody produktowe). Względem starej pary WBS2560NE + LFP326FW (2 137,99) baza rośnie o **1 310 zł**, cashback +200 → **netto +1 110 zł**.
+**Wybór użytkownika (31.10.2026): Electrolux 700 SenseBoil CIS62450 (59 cm)** — **2 169,99 zł** w euro.com.pl. **CIV634 (2 099,00) pozostaje tańszą alternatywą** różną o 70,99 zł.
+- 59 × 52 × 5 cm · 4 pola · **Bridge** · **4× Booster** · **7,35 kW** · czarne szkło · **Direct Access: jeden pasek regulacji + wybór pola** (instrukcja, rozdz. 4.2) · **SenseBoil** · Stop+GO · Clever Heat · EasyFit · blokada / blokada uruchomienia · OptiHeat 3 stopnie · timer, pauza · **Hob2Hood**.
+- **Status MUST: 7/8.** Brak osobnego suwaka na strefę — użytkownik akceptuje jeden pasek. Reszta: 59 cm ✓, Bridge ✓, 4 pola ✓, Booster ✓, szkło błyszczące ✓, blokada ✓, ciepło resztkowe ✓.
+- **Cena/cashback:** 2 169,99 solo → 300 zł zwrotu (próg 2 000–2 999,99); **para z LFG716R = 3 448,99**; po kodzie progowym para na fakturze **2 875,04 → 300 zł** (400 tylko bez kodu). Netto solo **1 869,99 zł**.
+- **Koszyk:** para CIS62450 + LFG716R to **3 448,99 zł** (ceny listowe). Baza 7 poz. A = **18 027,95**; kod −3 000; podział z pralką i łącznikiem osobno → **15 505,95 zł netto**. Względem starej pary WBS2560NE + LFP326FW (2 137,99) baza rośnie o **1 311,00 zł**, cashback +100 → **netto +1 211,00 zł**.
 - **H2H:** płyta nadaje IR, okap LFG716R odbiera; bez parowania. Tryb H5 fabryczny, H1–H6.
 - **Odrzucone:** WBS2560NE (8/8, ale bez H2H), EIV644 (DoubleBridge, ale jeden pasek; +99 zł od CIV634), Samsung NZ64B5066FK (wspólny slide), modele matowe, EIV6340X (57,6 cm). Szczegóły i pełna tabela: `raporty/plyta-wybor.md`.
 
@@ -80,15 +80,15 @@ Legenda: **[MUST]** obowiązkowe, **[NICE]** mile widziane, *(?)* do weryfikacji
 ## 4. Okap — wkład do zabudowy (wsad)
 **Wzorzec:** brak. **Typ: wkład do zabudowy (wsad)** — cały korpus schowany w szafce, od spodu widoczny tylko panel sterowania i powierzchnia ssąca. Teleskop i okap podszafkowy wykluczone.
 
-Warunki: płyta 60 cm, szafka 60 × 35 cm, rura **Ø150**, wyciąg na zewnątrz, **Hob2Hood z CIV634**.
+Warunki: płyta 60 cm, szafka 60 × 35 cm, rura **Ø150**, wyciąg na zewnątrz, **Hob2Hood z CIS62450**.
 
-**Wybór użytkownika (26.10.2026): Electrolux LFG716R (czarny, 54 cm)** — **1 348,99 zł** w euro.com.pl, PNC **942 022 578**.
+**Wybór użytkownika (26.10.2026): Electrolux LFG716R (czarny, 54 cm)** — **1 279,00 zł** w euro.com.pl (live 31.10; było 1 348,99), PNC **942 022 578**.
 - 54 cm · **580 m³/h normal / 700 boost** · **67 dB max / 54 dB min** · klasa **A** · 3 biegi + boost · LED · 2 filtry aluminiowe (zmywarka) · **Ø150** · korpus **530 × 287 × 331 mm** · widoczny spód **540 × 300 mm** · **Hob2Hood** · min. **50 cm** od płyty.
 - **Status MUST:** wkład ✓ · 54 cm w szafce 60 ✓ · głębokość 287 mm w szafce 35 cm ✓ · Ø150 ✓ · 580 normal / 700 boost ✓ · 54 dB min ≤55 ✓ · filtry metalowe / zmywarka ✓ · **H2H ✓** · **klapa zwrotna ?** — potwierdzić w zestawie, inaczej dokupić.
 - **Kompromis (świadomy):** 30 cm głębokości vs 52 cm płyty — przednie pola płyty są poza obrysem ssącym, więc odciąg przy przedniej krawędzi jest słabszy. Użytkownik wybrał wkład zamiast teleskopu.
-- **Cena/cashback:** 1 348,99; para z CIV634 = 3 447,99 → **400 zł** Electrolux.
+- **Cena/cashback:** 1 279,00; para z CIS62450 = **3 448,99** → po kodzie **2 875,04** → **300 zł** Electrolux (400 tylko bez kodu).
 - **Alternatywy:** AEG DGE5661HM (54 cm, inox, H2H, ta sama platforma); Electrolux LFG719R (80 cm — tylko szafka 80 cm). **Teleskopy odrzucone:** LFP326FW (410 m³/h maks., 57 dB LwA), Elica Elite 26 (480–496 normal, ale teleskop), Cata TFH 6630 WH.
-- **Montaż:** wycięcie w dnie szafki wg szablonu; korpus 331 mm musi wejść w szafkę; min. 50 cm od płyty (rysunek CIV634); kanał Ø150; recyrkulacja tylko z filtrem węglowym (model potwierdzić po PNC okapu).
+- **Montaż:** wycięcie w dnie szafki wg szablonu; korpus 331 mm musi wejść w szafkę; min. 50 cm od płyty (rysunek CIS62450); kanał Ø150; recyrkulacja tylko z filtrem węglowym (model potwierdzić po PNC okapu).
 - **H2H:** w okapie połączenie zdalne fabrycznie włączone; na płycie H5 (H1–H6); nie zasłaniać panelu płyty ani odbiornika; chronić panel okapu przed słońcem/halogenem.
 - Szczegóły, MUST i instalacja: `raporty/okap-wybor.md`.
 
@@ -109,7 +109,7 @@ Warunki: słupek nad piekarnikiem, wnęka **ok. 38 cm** + listwa maskująca do w
 **Do wyszukiwania:** `mikrofalówka do zabudowy 38 cm czarna talerz 32 cm` (sprawdzać średnicę talerza w karcie produktu)
 
 **Wybór potwierdzony (26.10.2026): Whirlpool WMD54MB (czarny)** — 31 l, talerz **32,5 cm**, wys. 38,5 cm, wnęka **380×556×550 mm**, głęb. 46,8 cm, 1 000 W, grill (zbędny, ale standard w tej klasie), 6. Zmysł, JetDefrost, Crisp; **1 849,99 zł** w euro (bez kodu produktowego), cashback Whirlpool **200 zł**.
-- **Koszyk po wymianie** (WMD7O4TX → WMD54MB): po decyzji o CIV634 + LFG716R live 26.10: baza **20 843,25 zł**, kod −3 000, netto **16 193,25 zł**; podział z pralką osobno i łącznikiem Neonet **15 663,44 zł**. Stare wyliczenia V1 (16 634,25 / 14 283,25) dotyczyły płyty WBS2560NE i okapu LFP326FW — nieaktualne. Sprawdzić w koszyku, że rabat = 3 000 zł, nie 1 900 zł.
+- **Koszyk po wymianie** (WMD7O4TX → WMD54MB): po decyzji o CIS62450 + LFG716R live 31.10: baza **20 555,95 zł**, kod −3 000, netto **16 005,95 zł**; podział z pralką osobno i łącznikiem **15 505,95 zł**. Stare wyliczenia V1 (16 634,25 / 14 283,25) dotyczyły płyty WBS2560NE i okapu LFP326FW — nieaktualne. Sprawdzić w koszyku, że rabat = 3 000 zł, nie 1 900 zł (odznaczyć REW suszarki).
 - **W koszyku:** usunąć WMD7O4TX; WMD54MB nie ma kodu produktowego — musi być w grupie progowej. Nie nanosić kodów na pozycje z grupy, jeśli rabat spada.
 - **WMD7O4TX odrzucony:** to **inox, nie czarny** (producent: stal nierdzewna; sklepy błędnie podają „czarny”).
 - Gdyby wystarczył talerz 31,5 cm: Gorenje BM251M2BG 949 (bez grilla) / Candy CA38FL7N25WXB 799 — ~650 zł taniej netto, ale bez spójności marki i z mniejszym talerzem.
@@ -233,17 +233,17 @@ Warunki: zabudowa w szafkach dolnych, pod blatem (wys. ok. 82 cm), szer. 30 cm (
 ## Do sprawdzenia przed zakupem
 - [ ] Wymiary wnęk w zabudowie (piekarnik, lodówka) i wycięcie w blacie pod płytę
 - [ ] Moc przyłącza: płyta **7,35 kW** + piekarnik ok. 3,5 kW; osobny obwód płyty
-- [ ] Płyta CIV634: wycięcie **490+1 / 560+1 mm**, głębokość **44 mm**; cena euro **2 099 zł** i kod `RKPROGAGD1026`
-- [ ] Płyta CIV634: potwierdzić, że **jeden pasek Direct Access** (bez 4 suwaków) jest akceptowalny — MUST świadomie uchylony
+- [ ] Płyta CIS62450: wycięcie **wg szablonu** (sprawdzić; standard 560 × 490 mm), wysokość **50 mm**, PNC **949 599 328 00**; cena euro **2 169,99 zł** i kod `RKPROGAGD1026`
+- [ ] Płyta CIS62450: potwierdzić, że **jeden pasek Direct Access** (bez 4 suwaków) jest akceptowalny — MUST świadomie uchylony
 - [ ] Okap LFG716R: szafka **60 × 35 cm**, korpus **331 mm** wys. / 287 mm gł., wycięcie w dnie wg szablonu
-- [ ] Okap: **Ø150**, krótka trasa, mało kolan; min. **50 cm** od płyty (rysunek CIV634)
+- [ ] Okap: **Ø150**, krótka trasa, mało kolan; min. **50 cm** od płyty (rysunek CIS62450)
 - [ ] Okap: sprawdzić, czy przednie pola płyty poza obrysem 30 cm są akceptowalne (kompromis wkładu)
 - [ ] Okap: **klapa zwrotna Ø150** — potwierdzić w zestawie; **filtr węglowy**, jeśli recyrkulacja (model po PNC 942 022 578)
 - [ ] Okap: filtry aluminiowe można myć w zmywarce (instrukcja LFG716 — tak)
 - [ ] H2H: tryb H5, połączenie zdalne w okapie, linia widzenia IR, brak słońca/halogenu na panelu okapu
-- [ ] Para Electrolux: cena **3 447,99** (2 099 + 1 348,99), cashback **400 zł**, zgłoszenie do 20.12.2026
-- [ ] Koszyk: baza **20 843,25**, kod −3 000, netto **16 193,25**; podział z pralką osobno **15 663,44**
-- [ ] Rewizja lodówki: Gorenje **14 860,41** vs ADF0 **15 663,44** — czy 2 obiegi i jeden sklep warte **803,03 zł**
+- [ ] Para Electrolux: cena **3 448,99** (2 169,99 + 1 279,00), po kodzie **2 875,04** → cashback **300 zł** (400 tylko bez kodu), zgłoszenie do 20.12.2026
+- [ ] Koszyk: baza **20 555,95**, kod −3 000, netto **16 005,95**; podział z pralką osobno **15 505,95**. W A odznaczyć REW suszarki.
+- [ ] Rewizja lodówki: Gorenje **14 702,92** vs ADF0 **15 505,95** — czy 2 obiegi i jeden sklep warte **803,03 zł**
 - [ ] Okap: dopływ powietrza (nawiewnik), jeśli mieszkanie jest szczelne
 - [ ] Mikrofalówka: zmierzyć największy talerz — 31,5 cm (Gorenje/Candy/Amica/Bosch) vs 32,5 cm (Whirlpool WMD54MB)
 - [ ] Mikrofalówka: wnęka wg instrukcji wybranego modelu — WMD54MB 380×556×550, WMD7O4TX 382×568×550, Gorenje 382×568×500 mm; nie zakładać jednego „38 cm” (różnice 380/382 mm); przekazać stolarzowi przed produkcją słupka

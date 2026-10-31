@@ -1,6 +1,6 @@
 # allegro.pl – raport (2026-10-25)
 
-> **Snapshot sprzed decyzji 26.10.2026.** Aktualny wybór: płyta Electrolux CIV634 (2 099, euro) + okap Electrolux LFG716R (1 348,99, euro); koszyk netto 16 193,25 / 15 663,44 — patrz `README.md`. Modele WBS2560NE/LFP326FW w tym raporcie są historyczne.
+> **Snapshot sprzed decyzji 26.10.2026.** Aktualny wybór (31.10): płyta **CIS62450** (2 169,99, euro) + okap **LFG716R** (1 279,00, euro); netto **16 005,95** (1 koszyk) / **15 505,95** (podział) — patrz `README.md`. Modele WBS2560NE/LFP326FW w tym raporcie są historyczne.
 
 > **Aktualizacja 2026-10-25 (ponowna weryfikacja).** Ponownie sprawdziłem dostęp do allegro.pl (listing, strona produktu, strona usług AGD) — **nadal HTTP 403 od DataDome**. Nie obchodziłem zabezpieczenia. Wszystkie nowe ceny w tym raporcie pochodzą z migawek stron Allegro w wyszukiwarce, wykonanych 25.10.2026, i **każda jest oznaczona „niepotwierdzone (snippet)”**. Nowe wiersze w sekcjach 1–7 mają w kolumnie Typ dopisek **(25.10)**. Wcześniejsze wiersze zostawiłem bez zmian; jeśli nowy snippet dawał inną cenę niż stary, **podaję obie wartości z datami**.
 >

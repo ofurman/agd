@@ -1,6 +1,6 @@
 # oleole.pl – raport (25.10.2026)
 
-> **Snapshot sprzed decyzji 26.10.2026.** Aktualny wybór: płyta Electrolux CIV634 (2 099, euro) + okap Electrolux LFG716R (1 348,99, euro); koszyk netto 16 193,25 / 15 663,44 — patrz `README.md`. Modele WBS2560NE/LFP326FW w tym raporcie są historyczne.
+> **Snapshot sprzed decyzji 26.10.2026.** Aktualny wybór (31.10): płyta **CIS62450** (2 169,99, euro) + okap **LFG716R** (1 279,00, euro); netto **16 005,95** (1 koszyk) / **15 505,95** (podział) — patrz `README.md`. Modele WBS2560NE/LFP326FW w tym raporcie są historyczne.
 
 **Źródła cen.** Strona oleole.pl odrzuca zapytania automatyczne (Akamai, HTTP 403) dla `curl` i WebFetch. Dlatego **żadnej ceny nie odczytano bezpośrednio ze strony sklepu**. Wszystkie ceny OleOle! w raporcie pochodzą z **ofert sklepu „oleole.pl” na Ceneo** (atrybuty `data-ShopUrl="oleole.pl"` i `data-Price` na karcie produktu Ceneo), stan na 25.10.2026. Kolumna „Link” podaje:
 - link do karty Ceneo (to jest źródło ceny),

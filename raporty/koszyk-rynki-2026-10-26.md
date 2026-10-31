@@ -1,6 +1,6 @@
 # Efektywność koszyka AGD — euro vs inne rynki (2026-10-26)
 
-> **SNAPSHOT SPRZED DECYZJI 26.10.2026.** Poniższe wyceny dotyczą płyty **WBS2560NE** i okapu **LFP326FW**. Po wyborze **CIV634 + LFG716R** aktualne są: baza **20 843,25**, kod −3 000, netto **16 193,25** (1 koszyk) / **15 663,44** (podział). Nie używać poniższych sum do nowego koszyka — patrz `README.md` i `zakup-optimal.md` §0.
+> **SNAPSHOT SPRZED DECYZJI 26.10.2026.** Poniższe wyceny dotyczą płyty **WBS2560NE** i okapu **LFP326FW**. Po wyborze **CIS62450 + LFG716R** (31.10) aktualne są: baza **20 555,95**, kod −3 000, netto **16 005,95** (1 koszyk) / **15 505,95** (podział: pralka + łącznik osobno). Nie używać poniższych sum do nowego koszyka — patrz `README.md` i `zakup-optimal.md` §0-live.
 
 Zakres: ten sam koszyk 9 pozycji co w `README.md` (piekarnik, lodówka ADF0, płyta, okap **Electrolux LFP326FW biały**, mikrofalówka WMD54MB, zmywarka, pralka, suszarka, łącznik SKK-DD). Ceny brutto, PLN. Sprawdzone na żywo 26.10.2026 w euro.com.pl oraz w Media Expert, MediaMarkt, Avans, Morele, Neonet, x-kom i Sferis; Allegro — tylko dane z raportu 25.10 (403). **Wyjątek:** cena LFP326FW 638,99 zł to promo do potwierdzenia w koszyku (karta/agregatory 789 zł). **„euro” = euro.com.pl, nie waluta EUR.**
 

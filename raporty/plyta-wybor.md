@@ -2,7 +2,7 @@
 
 Sprawdzone na żywo: Media Expert, MediaMarkt, Ceneo; dla euro.com.pl użyłem cen z dzisiejszego raportu `euro.com.pl.md` (strona blokuje bezpośredni dostęp). Wszystkie ceny brutto, kody ważne 26.10.2026.
 
-> **DECYZJA UŻYTKOWNIKA (26.10.2026): Electrolux CIV634 — 2 099,00 zł w euro.com.pl.** Wybór **świadomie uchyla MUST „osobny suwak na strefę”**: CIV634 ma jeden pasek regulacji + wybór pola (instrukcja, rozdz. 3.2), ale daje **Hob2Hood z okapem Electrolux LFG716R**. Para CIV634 + LFG716R = **3 447,99 zł**; baza koszyka **20 843,25 zł**, netto **16 193,25 zł** (1 koszyk) / **15 663,44 zł** (podział). Poniższe §1–§6 i §8–§9 to analiza sprzed decyzji (punkt odniesienia WBS2560NE, stare sumy) — wiążące są ten akapit, §7 i §10.
+> **DECYZJA UŻYTKOWNIKA (31.10.2026): Electrolux 700 SenseBoil CIS62450 — 2 169,99 zł w euro.com.pl.** Zastępuje CIV634. Wybór **świadomie uchyla MUST „osobny suwak na strefę”**: CIS62450 ma jeden pasek regulacji + wybór pola (instrukcja, rozdz. 4.2), ale daje **Hob2Hood z okapem Electrolux LFG716R** i **SenseBoil**. Para CIS62450 + LFG716R = **3 448,99 zł**; po kodzie para na fakturze **2 875,04 → cashback Electrolux 300 zł** (400 tylko bez kodu); baza 7 poz. A **18 027,95 zł**, netto **15 505,95 zł** (podział: pralka + łącznik osobno). CIV634 (2 099,00) zostaje tańszą alternatywą różną o **70,99 zł**. Poniższe §1–§6 i §8–§9 to analiza sprzed decyzji (punkt odniesienia WBS2560NE, stare sumy) — wiążące są ten akapit, §7 i §10.
 
 ## 1. Wniosek
 
@@ -133,7 +133,7 @@ To jedyne modele, które **obniżają koszyk** (bo zostają w euro i nie wymusza
 
 ## 7. Rekomendacja
 
-1. **Wybór użytkownika: Electrolux CIV634 — 2 099 zł w euro.** Daje **Hob2Hood z LFG716R**, Bridge, 4 pola, 3,2 kW Boost, 44 mm i czarne błyszczące szkło. **Świadome uchylenie MUST „osobny suwak”** — CIV634 ma jeden pasek + wybór pola. Koszt pary z okapem: baza +1 310 zł, cashback +200 zł → **netto +1 110 zł** (16 193,25 / 15 663,44).
+1. **Wybór użytkownika (31.10.2026): Electrolux CIS62450 — 2 169,99 zł w euro.** Daje **Hob2Hood z LFG716R**, Bridge, 4 pola, **SenseBoil**, 4× Booster, **7,35 kW**, 5 cm i czarne szkło. **Świadome uchylenie MUST „osobny suwak”** — CIS62450 ma jeden pasek + wybór pola. Koszt pary z okapem: baza +1 311,00 zł, cashback +100 zł → **netto +1 211,00 zł** (16 005,95 / 15 505,95). **CIV634 (2 099,00) jest o 70,99 zł tańsza** i pozostaje alternatywą.
 2. **Jeśli osobny suwak jest nienegocjowalny:** WBS2560NE — 1 499 zł, 8/8 MUST, 200 zł cashbacku, ale **bez H2H**; para z LFG716R nie zadziała.
 3. **Jeśli chcesz zostać przy Electroluxie i mieć dwa mostki:** EIV644 — 2 197,96 zł, 300 zł cashbacku, ale też jeden pasek; +99 zł względem CIV634.
 4. **Jeśli cena jest priorytetem i H2H niepotrzebne:** WLB3360NE / WBS0060NE — 1 195–1 199 zł, 8/8 MUST, 995–999 zł po cashbacku.
@@ -180,6 +180,6 @@ Zawężenie: **tylko dwie funkcje** — łączenie pól i Booster powyżej 3 kW.
 - **Najlepsza wartość: Bosch PVS61RBB5E — 1 570 zł, po cashbacku 1 370 zł.** CombiZone + PowerBoost, 4 pola, 60 cm, blokada i ciepło resztkowe. Ma TouchSelect (jeden pasek), nie 4 suwaki.
 - **Najtańszy Electrolux: LIV63431BK — 1 399 zł.** Bridge + Boost 3,2 kW, 59 cm, 44 mm. Brak potwierdzonej blokady dzieci; jeśli to nie przeszkadza, jest bezkonkurencyjny cenowo.
 - **Najlepszy Electrolux: EIV644 — 2 197,96 zł, po cashbacku 1 897,96 zł.** DoubleBridge (dwa mostki), 44 mm, blokada, ciepło. Najwięcej elastyczności w tej marce.
-- **CIV634 — 2 099 zł, po cashbacku 1 799 zł (solo) / 400 zł za parę z LFG716R.** **Wybór użytkownika.** Jeden bridge, 44 mm, H2H, 4,8/5 z 1 528 opinii. **H2H działa z LFG716R** — to główny powód wyboru. Świadomie uchylony MUST „osobny suwak”: jest jeden pasek + wybór pola. EIV644 daje dwa mostki za +99 zł, ale też jeden pasek; gdy H2H jest kluczowe, CIV634 wystarcza.
+- **CIS62450 — 2 169,99 zł, po cashbacku 1 869,99 zł (solo) / 300 zł za parę z LFG716R po kodzie.** **Wybór użytkownika 31.10.** Jeden bridge, 5 cm, SenseBoil, 4× Booster, H2H, 4,9/5 z 129 opinii. **H2H działa z LFG716R** — to główny powód wyboru. Świadomie uchylony MUST „osobny suwak”: jest jeden pasek + wybór pola. **CIV634 (2 099,00) jest o 70,99 zł tańsza** — bez SenseBoil, 44 mm, Booster 3,2 kW; pozostaje alternatywą.
 - **Najlepszy Samsung: NZ64B5045KK — 2 099 zł.** Jedna strefa Flex, Boost 3,7 kW, 7,4 kW, Wi-Fi. Za 5066FK dopłacasz ~298 zł za **dwie** strefy flex i Dual Flex; tylko jeśli potrzebujesz dwóch.
 - **Odrzuć:** Bosch PIE631HB1E i PIE611BB5E — karty nie potwierdzają łączenia pól; Samsung NZ64B7799GK — 3 579 zł poza budżetem.
